@@ -5,6 +5,7 @@
 * [CH4](https://docs.google.com/presentation/d/1zNDHFp19Oy-hPqxfNnOUZifSD0k1w45g/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true)
 * [CH5](https://docs.google.com/presentation/d/1Y8-nFJ1K1I2e-ZOQEjPYCUxXbFD91LYJ/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true)
 * [CH6](https://docs.google.com/presentation/d/1dhBoYcykFBsT00x0u5WPSxTX0qLjJATm/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true)
+* [CH7](https://github.com/jumbokh/nknuclass/blob/main/docs/pPF522_%E6%9C%80%E6%96%B0%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E6%A6%82%E8%AB%96%E5%90%ABAIL%E5%9C%8B%E9%9A%9B%E8%AA%8D%E8%AD%89_%E7%AC%AC7%E7%AB%A0_%E6%95%99%E5%AD%B8%E6%8A%95%E5%BD%B1%E7%89%87.pdf)
 * [CH8](https://docs.google.com/presentation/d/1PyeFj_V3jd1a6Bi77kFIXMVJ0gWbsSfc/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true)
 * [CH9](https://docs.google.com/presentation/d/11P4zXnGrRGxyHUJVSFKpZml0xGGXGlry/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true)
 * [CH10](https://docs.google.com/presentation/d/1-nXQNVSEL_CcMw-jrFCmgDa6k1Eqc96u/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true)
