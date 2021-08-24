@@ -1,0 +1,11 @@
+### 簡報檔
+* [CH1](https://docs.google.com/presentation/d/1aoF7naGizKAqIGjjZauCN36t0X90zajg/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true)
+* [CH2](https://docs.google.com/presentation/d/1wFggCQZ28YHaEVRUULBc-yyZUEDIIyQs/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true)
+* [CH3](https://docs.google.com/presentation/d/1jIMKeCDjvT8cWReGLHB45VB0kJhS8EC9/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true)
+* [CH4](https://docs.google.com/presentation/d/1zNDHFp19Oy-hPqxfNnOUZifSD0k1w45g/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true)
+* [CH5](https://docs.google.com/presentation/d/1Y8-nFJ1K1I2e-ZOQEjPYCUxXbFD91LYJ/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true)
+* [CH6](https://docs.google.com/presentation/d/1dhBoYcykFBsT00x0u5WPSxTX0qLjJATm/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true)
+* [CH8](https://docs.google.com/presentation/d/1PyeFj_V3jd1a6Bi77kFIXMVJ0gWbsSfc/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true)
+* [CH9](https://docs.google.com/presentation/d/11P4zXnGrRGxyHUJVSFKpZml0xGGXGlry/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true)
+* [CH10](https://docs.google.com/presentation/d/1-nXQNVSEL_CcMw-jrFCmgDa6k1Eqc96u/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true)
+* [CH11](https://docs.google.com/presentation/d/1LV8mLSbxlxFrYZ_DxgbDKz0h7vSGZEkU/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true)
