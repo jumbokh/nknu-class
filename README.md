@@ -15,3 +15,5 @@
 * [HW](https://github.com/jumbokh/nknu-class/blob/main/Homeworks/README.md)
 #### 書籍
 * [最新人工智慧概論](http://www.mosme.net/mosme/book_detail/PF522?c=3)
+#### 參考
+* [深度學習 -- 二元分類](https://zhuanlan.zhihu.com/p/62989429)
