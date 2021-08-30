@@ -4,5 +4,12 @@
 #### PPT
 * [上課 ppt](https://github.com/jumbokh/nknu-class/blob/main/docs/README.md)
 * [Tensorflow 2.0 深度學習](https://docs.google.com/presentation/d/1GDXb2ajOigrlUDO-cGQtkvCo1Je8zhBc/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true)
+#### 機器學習 
+* [ML Class](https://github.com/jumbokh/ML-Class) 
+* [數據科學](https://github.com/jumbokh/DataScience_1082) 
+* [智慧型監控系統](https://github.com/jumbokh/Intelligent-monitoring-class) 
+* [視覺辨識課程](https://github.com/jumbokh/cv_face) 
+* [智慧驢車](https://github.com/jumbokh/FSSH-class)
+* [losses function](https://keras.io/zh/losses/)
 #### Home Work
 * [HW](https://github.com/jumbokh/nknu-class/blob/main/Homeworks/README.md)
