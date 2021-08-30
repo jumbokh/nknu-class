@@ -10,7 +10,7 @@
 * [智慧型監控系統](https://github.com/jumbokh/Intelligent-monitoring-class) 
 * [視覺辨識課程](https://github.com/jumbokh/cv_face) 
 * [智慧驢車](https://github.com/jumbokh/FSSH-class)
-* [losses function](https://keras.io/zh/losses/)
+* [losses function (keras 文件)](https://keras.io/zh/losses/)
 #### Home Work
 * [HW](https://github.com/jumbokh/nknu-class/blob/main/Homeworks/README.md)
 #### 書籍
