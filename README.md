@@ -11,11 +11,11 @@ Topic 1. 水庫每日營運狀況
 Topic 2. 旅館民宿 - 觀光資訊資料庫
 Topic 3. 高雄旅遊網-景點資料
 Topuc 4. 氣象局開放資料擷取
-#### https://opendata.cwb.gov.tw/dataset/climate?page=1
-#### Step 1. 註冊登入 [氣象資料開放平台](https://opendata.cwb.gov.tw/index)
-#### Step 2. 選取資料集
-#### Step 3. 取得授權碼
-#### Step 4. 資料下載
+ https://opendata.cwb.gov.tw/dataset/climate?page=1
+ Step 1. 註冊登入 [氣象資料開放平台](https://opendata.cwb.gov.tw/index)
+ Step 2. 選取資料集
+ Step 3. 取得授權碼
+ Step 4. 資料下載
 </pre>
 ##
 #### 機器學習 
