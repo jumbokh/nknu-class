@@ -13,3 +13,5 @@
 * [losses function](https://keras.io/zh/losses/)
 #### Home Work
 * [HW](https://github.com/jumbokh/nknu-class/blob/main/Homeworks/README.md)
+#### 書籍
+* [最新人工智慧概論](http://www.mosme.net/mosme/book_detail/PF522?c=3)
