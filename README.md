@@ -3,7 +3,7 @@
 * ![class AI](https://github.com/jumbokh/nknu-class/blob/main/docs/class-AI.JPG)
 #### PPT
 * [上課 ppt](https://github.com/jumbokh/nknu-class/blob/main/docs/README.md)
-* [Tensorflow 2.0 深度學習](https://docs.google.com/presentation/d/1GDXb2ajOigrlUDO-cGQtkvCo1Je8zhBc/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true)
+* [Tensorflow 2.0 深度學習](https://docs.google.com/presentation/d/1GDXb2ajOigrlUDO-cGQtkvCo1Je8zhBc/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true) ## 8/31
 #### 機器學習 
 * [ML Class](https://github.com/jumbokh/ML-Class) 
 * [數據科學](https://github.com/jumbokh/DataScience_1082) 
