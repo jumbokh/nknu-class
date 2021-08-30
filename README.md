@@ -18,6 +18,7 @@ Topuc 4. 氣象局開放資料擷取
  Step 4. 資料下載
 </pre>
 ##
+#### [Notebooks](https://github.com/jumbokh/nknu-class/tree/main/notebooks#readme)
 #### 機器學習 
 * [ML Class](https://github.com/jumbokh/ML-Class) 
 * [數據科學](https://github.com/jumbokh/DataScience_1082) 
