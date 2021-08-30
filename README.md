@@ -4,6 +4,20 @@
 #### PPT
 * [上課 ppt](https://github.com/jumbokh/nknu-class/blob/main/docs/README.md)
 * [Tensorflow 2.0 深度學習](https://docs.google.com/presentation/d/1GDXb2ajOigrlUDO-cGQtkvCo1Je8zhBc/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true) ## 8/31
+#### 政府公開資料取得
+<pre>
+參考:  https://nkust.gitbook.io/python/lu-gong-qu-ji-qiao
+Topic 1. 水庫每日營運狀況
+Topic 2. 旅館民宿 - 觀光資訊資料庫
+Topic 3. 高雄旅遊網-景點資料
+Topuc 4. 氣象局開放資料擷取
+#### https://opendata.cwb.gov.tw/dataset/climate?page=1
+#### Step 1. 註冊登入 [氣象資料開放平台](https://opendata.cwb.gov.tw/index)
+#### Step 2. 選取資料集
+#### Step 3. 取得授權碼
+#### Step 4. 資料下載
+</pre>
+##
 #### 機器學習 
 * [ML Class](https://github.com/jumbokh/ML-Class) 
 * [數據科學](https://github.com/jumbokh/DataScience_1082) 
