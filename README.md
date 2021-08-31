@@ -22,6 +22,8 @@ Topuc 4. 氣象局開放資料擷取
 ##
 #### 練習
 #### [Notebooks](https://github.com/jumbokh/nknu-class/tree/main/notebooks#readme)
+##### Chrome 瀏覽器 --> 管理擴充功能 --> 搜尋 : Open in Colab
+![Chrome](https://github.com/jumbokh/nknu-class/blob/main/docs/chromemgm.JPG)
 #### 機器學習 
 * [ML Class](https://github.com/jumbokh/ML-Class) 
 * [數據科學](https://github.com/jumbokh/DataScience_1082) 
@@ -33,6 +35,7 @@ Topuc 4. 氣象局開放資料擷取
 * [HW](https://github.com/jumbokh/nknu-class/blob/main/Homeworks/README.md)
 #### 書籍
 * [最新人工智慧概論](http://www.mosme.net/mosme/book_detail/PF522?c=3)
-* [輕鬆學會Google TensorFlow 2.0人工智慧深度學習實作開發](https://www.books.com.tw/products/0010832030)
+* [輕鬆學會Google TensorFlow 2.0人工智慧深度學習實作開發](https://www.books.com.tw/products/0010832030) [ppt notebooks](https://drive.google.com/drive/folders/1NmMu5gpfMd0ct2OMTGpVxI5xzXzz6ffW?usp=sharing
+)
 #### 參考
 * [深度學習 -- 二元分類](https://zhuanlan.zhihu.com/p/62989429)
