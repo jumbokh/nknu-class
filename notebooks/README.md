@@ -6,3 +6,5 @@
 * TF2: [Tensorflow 2.x Keras notebooks](https://github.com/jumbokh/nknu-class/blob/main/notebooks/DL_TF2_Ch01_Workshop_TensorFlow_2_0_Environment_Setup_and_Testing.ipynb)
 #### DataScience : Gov open data
 * [Get open Data](https://github.com/jumbokh/nknu-class/blob/main/notebooks/Get_openData.ipynb)
+#### 二元分類
+* [imdb](https://github.com/jumbokh/nknu-class/blob/main/notebooks/imdb_dataset_by_tensorflow_2_0.ipynb)
