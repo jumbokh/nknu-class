@@ -8,6 +8,7 @@
 * [Get open Data](https://github.com/jumbokh/nknu-class/blob/main/notebooks/Get_openData.ipynb)
 #### 迴歸分析
 * [2012MLB -- Simple Regression](https://github.com/jumbokh/nknu-class/blob/main/notebooks/simple_regression.ipynb)
+* [專題: 線性迴歸](https://github.com/jumbokh/nknu-class/blob/main/notebooks/5_6%E5%B0%88%E9%A1%8C_%E7%B7%9A%E6%80%A7%E5%9B%9E%E6%AD%B8.ipynb)
 #### 二元分類
 * [imdb](https://github.com/jumbokh/nknu-class/blob/main/notebooks/imdb_dataset_by_tensorflow_2_0.ipynb)
 #### ML Notebooks: [Share](https://drive.google.com/drive/folders/1H4dgIs8jaoW0Amf2kU791Ajl0rE_TozD?usp=sharing)
