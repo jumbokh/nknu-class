@@ -36,6 +36,7 @@ Topuc 4. 氣象局開放資料擷取
 #### 書籍
 * [最新人工智慧概論](http://www.mosme.net/mosme/book_detail/PF522?c=3)
 * [輕鬆學會Google TensorFlow 2.0人工智慧深度學習實作開發](https://www.books.com.tw/products/0010832030) [ppt notebooks](https://drive.google.com/drive/folders/1NmMu5gpfMd0ct2OMTGpVxI5xzXzz6ffW?usp=sharing
+* ![Deep Learning Keras](https://github.com/jumbokh/nknu-class/blob/main/docs/book1.jpg)
 )
 #### 參考
 * [深度學習 -- 二元分類](https://zhuanlan.zhihu.com/p/62989429)
