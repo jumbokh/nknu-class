@@ -40,7 +40,6 @@ Topuc 4. 氣象局開放資料擷取
 * ![Book3](https://github.com/jumbokh/nknu-class/blob/main/docs/book3.jpg)
 * [Deep learning 深度學習必讀：Keras 大神帶你用 Python 實作](https://www.books.com.tw/products/0010822932)
 * ![Deep Learning Keras](https://github.com/jumbokh/nknu-class/blob/main/docs/book1.jpg)
-)
 #### 參考
 * [深度學習 -- 二元分類](https://zhuanlan.zhihu.com/p/62989429)
 * [可视化理解Binary Cross-Entropy](https://zhuanlan.zhihu.com/p/89391305)
