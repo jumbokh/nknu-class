@@ -22,7 +22,7 @@ Topuc 4. 氣象局開放資料擷取
 ##
 #### 練習
 #### [Notebooks](https://github.com/jumbokh/nknu-class/tree/main/notebooks#readme)
-##### Chrome 瀏覽器 --> 管理擴充功能 --> 搜尋 : Open in Colab
+##### chrome 線上應用程式商店 --> 站內搜尋 : Open in Colab
 ![Chrome](https://github.com/jumbokh/nknu-class/blob/main/docs/chromemgm.JPG)
 #### 機器學習 
 * [ML Class](https://github.com/jumbokh/ML-Class) 
