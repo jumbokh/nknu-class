@@ -10,6 +10,8 @@
 * [2012MLB -- Simple Regression](https://github.com/jumbokh/nknu-class/blob/main/notebooks/simple_regression.ipynb)
 * [專題: 線性迴歸](https://github.com/jumbokh/nknu-class/blob/main/notebooks/5_6%E5%B0%88%E9%A1%8C_%E7%B7%9A%E6%80%A7%E5%9B%9E%E6%AD%B8.ipynb)
 * [預測自行車流量-LinearRegression](https://github.com/jumbokh/nknu-class/blob/main/notebooks/%E9%A0%90%E6%B8%AC%E8%87%AA%E8%A1%8C%E8%BB%8A%E6%B5%81%E9%87%8F_LinearRegression.ipynb)
+* [波士頓房價預測](https://github.com/jumbokh/nknu-class/blob/main/notebooks/predicting_house_prices.ipynb)
+* [Boston house price prediction](https://github.com/jumbokh/nknu-class/blob/main/notebooks/boston_house_price_prediction.ipynb)
 #### 二元分類
 * [imdb](https://github.com/jumbokh/nknu-class/blob/main/notebooks/imdb_dataset_by_tensorflow_2_0.ipynb)
 #### ML Notebooks: [Share](https://drive.google.com/drive/folders/1H4dgIs8jaoW0Amf2kU791Ajl0rE_TozD?usp=sharing)
