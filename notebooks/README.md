@@ -28,3 +28,5 @@ The modified Boston housing dataset consists of 489 data points, with each datap
 #### 二元分類
 * [imdb](https://github.com/jumbokh/nknu-class/blob/main/notebooks/imdb_dataset_by_tensorflow_2_0.ipynb)
 #### ML Notebooks: [Share](https://drive.google.com/drive/folders/1H4dgIs8jaoW0Amf2kU791Ajl0rE_TozD?usp=sharing)
+#### 聚類
+* [機器學習概要](https://github.com/jumbokh/nknu-class/blob/main/notebooks/11_%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E6%A6%82%E8%A6%81.ipynb) (SVM, K-Means)
