@@ -12,6 +12,7 @@
 * [預測自行車流量-LinearRegression](https://github.com/jumbokh/nknu-class/blob/main/notebooks/%E9%A0%90%E6%B8%AC%E8%87%AA%E8%A1%8C%E8%BB%8A%E6%B5%81%E9%87%8F_LinearRegression.ipynb)
 * [波士頓房價預測](https://github.com/jumbokh/nknu-class/blob/main/notebooks/predicting_house_prices.ipynb)
 * [Boston house price prediction](https://github.com/jumbokh/nknu-class/blob/main/notebooks/boston_house_price_prediction.ipynb)
+* [Auto MPG数据集 -- TF2 Regression](https://github.com/jumbokh/nknu-class/blob/main/notebooks/105_example_regression.ipynb)
 ### Data
 The modified Boston housing dataset consists of 489 data points, with each datapoint having 3 features. This dataset is a modified version of the Boston Housing dataset found on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/machine-learning-databases/housing/).
 
