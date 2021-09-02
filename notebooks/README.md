@@ -7,6 +7,7 @@
 #### DataScience : Gov open data
 * [Get open Data](https://github.com/jumbokh/nknu-class/blob/main/notebooks/Get_openData.ipynb)
 #### 迴歸分析
+* [迴歸法預測函數 -- 蔡炎龍](https://github.com/jumbokh/nknu-class/blob/main/notebooks/14_%E8%BF%B4%E6%AD%B8%E6%B3%95%E9%A0%90%E6%B8%AC%E5%87%BD%E6%95%B8%EF%BC%88%E6%96%B0%E7%89%88%EF%BC%89.ipynb)
 * [2012MLB -- Simple Regression](https://github.com/jumbokh/nknu-class/blob/main/notebooks/simple_regression.ipynb)
 * [專題: 線性迴歸](https://github.com/jumbokh/nknu-class/blob/main/notebooks/5_6%E5%B0%88%E9%A1%8C_%E7%B7%9A%E6%80%A7%E5%9B%9E%E6%AD%B8.ipynb)
 * [預測自行車流量-LinearRegression](https://github.com/jumbokh/nknu-class/blob/main/notebooks/%E9%A0%90%E6%B8%AC%E8%87%AA%E8%A1%8C%E8%BB%8A%E6%B5%81%E9%87%8F_LinearRegression.ipynb)
