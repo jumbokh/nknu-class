@@ -36,7 +36,7 @@ Topuc 4. 氣象局開放資料擷取
 #### 書籍
 * [最新人工智慧概論](http://www.mosme.net/mosme/book_detail/PF522?c=3)
 * ![AIL](https://github.com/jumbokh/nknu-class/blob/main/docs/book4.jpg)
-* [輕鬆學會Google TensorFlow 2.0人工智慧深度學習實作開發](https://www.books.com.tw/products/0010832030) [, ppt notebooks](https://drive.google.com/drive/folders/1NmMu5gpfMd0ct2OMTGpVxI5xzXzz6ffW?usp=sharing)[github:MMSLAB-TF2](https://github.com/taipeitechmmslab/MMSLAB-TF2)
+* [輕鬆學會Google TensorFlow 2.0人工智慧深度學習實作開發](https://www.books.com.tw/products/0010832030) [, ppt notebooks](https://drive.google.com/drive/folders/1NmMu5gpfMd0ct2OMTGpVxI5xzXzz6ffW?usp=sharing)([ github:MMSLAB-TF2](https://github.com/taipeitechmmslab/MMSLAB-TF2))
 * ![Book3](https://github.com/jumbokh/nknu-class/blob/main/docs/book3.jpg)
 * ![一行指令學Python：用機器學習掌握人工智慧](https://github.com/jumbokh/nknu-class/blob/main/docs/book5.JPG)
 * [ppt, examples](https://drive.google.com/drive/folders/1gfItaJzpfBsRqdXKs-oiTVg3O4lzBXQY?usp=sharing)
