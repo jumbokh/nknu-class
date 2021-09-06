@@ -1,4 +1,5 @@
 ### 線性迴歸 [吳恩達  Linear Regression and Gradient Descent](https://www.youtube.com/watch?v=4b4MUYve_U8&list=RDCMUCBa5G_ESCn8Yd4vw5U-gIcg&start_radio=1&rv=4b4MUYve_U8&t=1817)
+##### [data](https://drive.google.com/drive/folders/1XiQR_SLgXYfnpdZFnx088iOarb3bYizu?usp=sharing)
 * [Linear Regerssion](https://github.com/jumbokh/nknu-class/blob/main/notebook/linear_regression.ipynb)
 * [線性迴歸的從零開始實現](https://github.com/jumbokh/nknu-class/blob/main/notebook/linear_regression_scratch.ipynb)
 * [線性迴歸的簡潔實現](https://github.com/jumbokh/nknu-class/blob/main/notebook/linear_regression_gluon.ipynb)
