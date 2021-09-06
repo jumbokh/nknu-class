@@ -1,4 +1,11 @@
-### 線性迴歸
+### 線性迴歸 [吳恩達  Linear Regression and Gradient Descent](https://www.youtube.com/watch?v=4b4MUYve_U8&list=RDCMUCBa5G_ESCn8Yd4vw5U-gIcg&start_radio=1&rv=4b4MUYve_U8&t=1817)
+* [Linear Regerssion](https://github.com/jumbokh/nknu-class/blob/main/notebook/linear_regression.ipynb)
+* [線性迴歸的從零開始實現](https://github.com/jumbokh/nknu-class/blob/main/notebook/linear_regression_scratch.ipynb)
+* [線性迴歸的簡潔實現](https://github.com/jumbokh/nknu-class/blob/main/notebook/linear_regression_gluon.ipynb)
+* [Softmax廻歸](https://github.com/jumbokh/nknu-class/blob/main/notebook/softmax_regression.ipynb)
+* [Softmax廻歸的從零開始實現](https://github.com/jumbokh/nknu-class/blob/main/notebook/softmax_regression_scratch.ipynb)
+* [Softmax廻歸的簡潔實現](https://github.com/jumbokh/nknu-class/blob/main/notebook/softmax_regression_gluon.ipynb)
+* [kaggle house 房價預測](https://github.com/jumbokh/nknu-class/blob/main/notebook/kaggle_house_price.ipynb)
 * [Ch4 Simple Regression](https://github.com/jumbokh/nknu-class/blob/main/notebook/Ch4_SimpleRegression.ipynb)
 * [Boston house price prediction](https://www.kaggle.com/shreayan98c/boston-house-price-prediction)
 * [Creditcard_exp](https://github.com/jumbokh/nknu-class/blob/main/notebook/6%20%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.ipynb)
