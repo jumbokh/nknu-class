@@ -38,6 +38,11 @@ Topuc 4. 氣象局開放資料擷取
 * ![AIL](https://github.com/jumbokh/nknu-class/blob/main/docs/book4.jpg)
 * [輕鬆學會Google TensorFlow 2.0人工智慧深度學習實作開發](https://www.books.com.tw/products/0010832030) [, ppt notebooks](https://drive.google.com/drive/folders/1NmMu5gpfMd0ct2OMTGpVxI5xzXzz6ffW?usp=sharing)
 * ![Book3](https://github.com/jumbokh/nknu-class/blob/main/docs/book3.jpg)
+* ![一行指令學Python：用機器學習掌握人工智慧](https://github.com/jumbokh/nknu-class/blob/main/docs/book5.JPG)
+* [ppt, examples](https://drive.google.com/drive/folders/1gfItaJzpfBsRqdXKs-oiTVg3O4lzBXQY?usp=sharing)
+* ![Keras](https://github.com/jumbokh/nknu-class/blob/main/docs/F9744.jpg)
+* [keras ppt](https://drive.google.com/drive/folders/1ofTVBZy4G81m2YVAkzdA8ljdfaKGqWzZ?usp=sharing)
+* [F9744 examples](http://www.flag.com.tw/DL.asp?F9744)
 * [Deep learning 深度學習必讀：Keras 大神帶你用 Python 實作](https://www.books.com.tw/products/0010822932)
 * ![Deep Learning Keras](https://github.com/jumbokh/nknu-class/blob/main/docs/book1.jpg)
 #### 參考
