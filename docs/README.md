@@ -12,3 +12,4 @@
 * [CH11](https://docs.google.com/presentation/d/1LV8mLSbxlxFrYZ_DxgbDKz0h7vSGZEkU/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true)
 ### mp22004 : 輕鬆學會Google TensorFlow 2.0人工智慧深度學習實作開發
 * [簡報檔](https://drive.google.com/drive/folders/1izgd0gzKTqHck871wP1XSZa9K5Ukjuoc?usp=sharing)
+* [lAB](https://drive.google.com/drive/folders/1RIAZivl1IG4vbC2sf0h_N8jRnfiiL0tU?usp=sharing)
