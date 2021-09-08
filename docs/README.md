@@ -1,4 +1,4 @@
-### 簡報檔
+### 人工智慧概論 簡報檔
 * [CH1](https://docs.google.com/presentation/d/1aoF7naGizKAqIGjjZauCN36t0X90zajg/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true)
 * [CH2](https://docs.google.com/presentation/d/1wFggCQZ28YHaEVRUULBc-yyZUEDIIyQs/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true)
 * [CH3](https://docs.google.com/presentation/d/1jIMKeCDjvT8cWReGLHB45VB0kJhS8EC9/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true)
@@ -10,3 +10,5 @@
 * [CH9](https://docs.google.com/presentation/d/11P4zXnGrRGxyHUJVSFKpZml0xGGXGlry/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true)
 * [CH10](https://docs.google.com/presentation/d/1-nXQNVSEL_CcMw-jrFCmgDa6k1Eqc96u/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true)
 * [CH11](https://docs.google.com/presentation/d/1LV8mLSbxlxFrYZ_DxgbDKz0h7vSGZEkU/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true)
+### mp22004 : 輕鬆學會Google TensorFlow 2.0人工智慧深度學習實作開發
+* [簡報檔](https://drive.google.com/drive/folders/1izgd0gzKTqHck871wP1XSZa9K5Ukjuoc?usp=sharing)
