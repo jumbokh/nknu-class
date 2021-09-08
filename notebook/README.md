@@ -18,4 +18,4 @@
 ### CNN
 * [用 tf.data 加载图片](https://www.tensorflow.org/tutorials/load_data/images?hl=zh-cn)
 * [TensorFlow 数据集](https://www.tensorflow.org/datasets/overview?hl=zh-cn)
-* 
+* [MNIST 模型強化](https://github.com/jumbokh/nknu-class/blob/main/notebook/06_02_MNIST_CNN.ipynb)
