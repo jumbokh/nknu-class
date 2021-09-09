@@ -37,3 +37,5 @@
 * [CIFAR-10 RGB CNN分類](https://github.com/jumbokh/nknu-class/blob/main/notebook/06_04_Cifar_RGB_CNN.ipynb)
 * [CIFAR-10 Gray CNN分類](https://github.com/jumbokh/nknu-class/blob/main/notebook/06_03_Cifar_gray_CNN.ipynb)
 * [CNN 視覺化](https://github.com/jumbokh/nknu-class/blob/main/notebook/06_07_CNN_Visualization.ipynb)
+* [MNIST CNN 資料增補(Data Augmentation)](https://github.com/jumbokh/nknu-class/blob/main/notebook/06_05_Data_Augmentation_MNIST.ipynb)
+* [Pet CNN 資料增補(Data Augmentation)](https://github.com/jumbokh/nknu-class/blob/main/notebook/06_06_Data_Augmentation_Pets.ipynb)
