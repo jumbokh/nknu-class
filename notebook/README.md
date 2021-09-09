@@ -10,6 +10,7 @@
 * [效能衡量指標(Metrics)](https://github.com/jumbokh/nknu-class/blob/main/notebooks/04_11_Metrics.ipynb)
 * [參數調校視覺化](https://github.com/jumbokh/nknu-class/blob/main/notebooks/04_04_keras_tuner_%E8%B6%85%E5%8F%83%E6%95%B8%E8%AA%BF%E6%A0%A1.ipynb)
 * [用 tf.data 加载图片](https://github.com/jumbokh/nknu-class/blob/main/notebook/images.ipynb)
+* [tf dataset overview](https://github.com/jumbokh/nknu-class/blob/main/notebook/overview.ipynb)
 ### 線性迴歸 [吳恩達  Linear Regression and Gradient Descent](https://www.youtube.com/watch?v=4b4MUYve_U8&list=RDCMUCBa5G_ESCn8Yd4vw5U-gIcg&start_radio=1&rv=4b4MUYve_U8&t=1817)
 ##### [李宏毅 Regression](https://www.youtube.com/watch?v=fegAeph9UaA&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&index=3)
 ##### [data](https://drive.google.com/drive/folders/1XiQR_SLgXYfnpdZFnx088iOarb3bYizu?usp=sharing)
