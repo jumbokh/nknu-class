@@ -2,6 +2,7 @@
 * [tf.keras 文件](https://www.tensorflow.org/api_docs/python/tf/keras)
 * [Sequential model](https://github.com/jumbokh/nknu-class/blob/main/notebooks/04_05__Sequential_model.ipynb)
 * [Functional API](https://github.com/jumbokh/nknu-class/blob/main/notebooks/04_06__Functional_API.ipynb)
+* [tf.keras Functional API](https://github.com/jumbokh/nknu-class/blob/main/notebook/functional.ipynb)
 * [神經層](https://github.com/jumbokh/nknu-class/blob/main/notebooks/04_07_%E7%A5%9E%E7%B6%93%E5%B1%A4.ipynb)
 * [激勵函數(Activation Function)](https://github.com/jumbokh/nknu-class/blob/main/notebooks/04_08_Activation_Function.ipynb)
 * [損失函數(Loss Function)](https://github.com/jumbokh/nknu-class/blob/main/notebooks/04_09_Loss_Function.ipynb)
