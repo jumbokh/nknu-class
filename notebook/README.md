@@ -1,4 +1,5 @@
 #### Tensorflow & Keras 相關
+* [tf.keras](https://www.tensorflow.org/api_docs/python/tf/keras)
 * [Sequential model](https://github.com/jumbokh/nknu-class/blob/main/notebooks/04_05__Sequential_model.ipynb)
 * [Functional API](https://github.com/jumbokh/nknu-class/blob/main/notebooks/04_06__Functional_API.ipynb)
 * [神經層](https://github.com/jumbokh/nknu-class/blob/main/notebooks/04_07_%E7%A5%9E%E7%B6%93%E5%B1%A4.ipynb)
