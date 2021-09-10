@@ -31,8 +31,11 @@
 * [Tensorflow 數據集 Overview](https://github.com/jumbokh/nknu-class/blob/main/notebooks/overview.ipynb)
 * [Tensorflow Dataset: MNIST](https://github.com/jumbokh/nknu-class/blob/main/notebooks/tensorflow_datasets.ipynb)
 ### 二元分類
-### 多元分類
+### 多元分類 [維基百科 Iris dataset](https://blog.yeshuanova.com/2018/10/dataset-iris/)
 * [iris](https://github.com/jumbokh/nknu-class/blob/main/notebook/Keras_6_1_iris.ipynb)
+* [Iris 模型評估](https://github.com/jumbokh/nknu-class/blob/main/notebook/Keras_6_1_a_iris.ipynb)
+    * [iris_data.csv](https://github.com/jumbokh/nknu-class/blob/main/notebook/iris_data.csv)
+    * [iris.h5](https://github.com/jumbokh/nknu-class/blob/main/notebook/iris.h5)
 ### DNN
 * [MNIST 手寫辨識](https://github.com/jumbokh/nknu-class/blob/main/notebook/04_02_%E6%89%8B%E5%AF%AB%E9%98%BF%E6%8B%89%E4%BC%AF%E6%95%B8%E5%AD%97%E8%BE%A8%E8%AD%98_%E5%AE%8C%E6%95%B4%E7%89%88.ipynb)
 * [Fashion MNIST 手寫辨識](https://github.com/jumbokh/nknu-class/blob/main/notebook/04_03_FashionMnist_%E5%AF%A6%E9%A9%97.ipynb)
