@@ -1,5 +1,6 @@
 #### Tensorflow & Keras 相關
 * [tf.keras 文件](https://www.tensorflow.org/api_docs/python/tf/keras)
+* [Keras 書籍範例](https://drive.google.com/drive/folders/1BNDekb21wMyzDqM4LmtnN3v0qlsmrBQZ?usp=sharing)
 * [Sequential model](https://github.com/jumbokh/nknu-class/blob/main/notebooks/04_05__Sequential_model.ipynb)
 * [Functional API](https://github.com/jumbokh/nknu-class/blob/main/notebooks/04_06__Functional_API.ipynb)
 * [tf.keras Functional API](https://github.com/jumbokh/nknu-class/blob/main/notebook/functional.ipynb)
@@ -36,6 +37,7 @@
 * [Keras深度学习实践2—二分类、多分类和标量回归问题简单实现](https://zhuanlan.zhihu.com/p/63192044)
 * [Keras 深度学习库的二元分类教程](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/dl-keras/binary-classification-tutorial-with-the-keras-deep-learning-library.md)
 ### 多元分類 [維基百科 Iris dataset](https://blog.yeshuanova.com/2018/10/dataset-iris/)
+* [iris: ANN](https://github.com/jumbokh/nknu-class/blob/main/notebook/Keras_01_Iris.ipynb)
 * [iris](https://github.com/jumbokh/nknu-class/blob/main/notebook/Keras_6_1_iris.ipynb)
 * [Iris 模型評估](https://github.com/jumbokh/nknu-class/blob/main/notebook/Keras_6_1_a_iris.ipynb)
     * [iris_data.csv](https://github.com/jumbokh/nknu-class/blob/main/notebook/iris_data.csv)
