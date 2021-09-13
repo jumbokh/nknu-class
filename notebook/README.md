@@ -58,6 +58,7 @@
 * [CIFAR-10 Gray CNN分類](https://github.com/jumbokh/nknu-class/blob/main/notebook/06_03_Cifar_gray_CNN.ipynb)
 * [CNN 視覺化(Feature Map)](https://github.com/jumbokh/nknu-class/blob/main/notebook/06_07_CNN_Visualization.ipynb)
 * [MNIST CNN 資料增補(Data Augmentation)](https://github.com/jumbokh/nknu-class/blob/main/notebook/06_05_Data_Augmentation_MNIST.ipynb)
+    * [Tensorflow 官網 ImageDataGenerator() 說明](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator)
 * [Pet CNN 資料增補(Data Augmentation)](https://github.com/jumbokh/nknu-class/blob/main/notebook/06_06_Data_Augmentation_Pets.ipynb)
 ### 參考
 * [李宏毅—1天搞懂深度学习](https://github.com/jumbokh/class1091/blob/master/ML/%E6%9D%8E%E5%AE%8F%E6%AF%85%E2%80%941%E5%A4%A9%E6%90%9E%E6%87%82%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
