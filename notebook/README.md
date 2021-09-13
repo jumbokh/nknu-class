@@ -6,6 +6,7 @@
 * [tf.keras Functional API](https://github.com/jumbokh/nknu-class/blob/main/notebook/functional.ipynb)
 * [神經層](https://github.com/jumbokh/nknu-class/blob/main/notebooks/04_07_%E7%A5%9E%E7%B6%93%E5%B1%A4.ipynb)
 * [激勵函數(Activation Function)](https://github.com/jumbokh/nknu-class/blob/main/notebooks/04_08_Activation_Function.ipynb)
+* [elements](https://github.com/jumbokh/nknu-class/blob/main/notebook/0_elements.ipynb)
 * [損失函數(Loss Function)](https://github.com/jumbokh/nknu-class/blob/main/notebooks/04_09_Loss_Function.ipynb)
 * [優化器(Optimizer)](https://github.com/jumbokh/nknu-class/blob/main/notebooks/04_10_Optimizer.ipynb)
     * [Rmsprop Adagrad Momentum](https://medium.com/chung-yi/ml%E5%85%A5%E9%96%80-%E5%8D%81%E4%BA%8C-sgd-adagrad-momentum-rmsprop-adam-optimizer-e331ef3cf5cf)
