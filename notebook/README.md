@@ -41,9 +41,9 @@
 * [Keras深度学习实践2—二分类、多分类和标量回归问题简单实现](https://zhuanlan.zhihu.com/p/63192044)
 * [Keras 深度学习库的二元分类教程](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/dl-keras/binary-classification-tutorial-with-the-keras-deep-learning-library.md)
 ### 多元分類 [維基百科 Iris dataset](https://blog.yeshuanova.com/2018/10/dataset-iris/)
-* [iris: ANN](https://github.com/jumbokh/nknu-class/blob/main/notebook/Keras_01_Iris.ipynb)
-* [iris](https://github.com/jumbokh/nknu-class/blob/main/notebook/Keras_6_1_iris.ipynb)
-* [Iris 模型評估](https://github.com/jumbokh/nknu-class/blob/main/notebook/Keras_6_1_a_iris.ipynb)
+* [iris: TF1.x DNN](https://github.com/jumbokh/nknu-class/blob/main/notebook/Keras_01_Iris.ipynb)
+* [iris: TF2.x DNN](https://github.com/jumbokh/nknu-class/blob/main/notebook/Keras_6_1_iris.ipynb)
+* [Iris TF2.x DNN 模型評估](https://github.com/jumbokh/nknu-class/blob/main/notebook/Keras_6_1_a_iris.ipynb)
     * [iris_data.csv](https://github.com/jumbokh/nknu-class/blob/main/notebook/iris_data.csv)
     * [iris.h5](https://github.com/jumbokh/nknu-class/blob/main/notebook/iris.h5)
 ### DNN
