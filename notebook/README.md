@@ -49,7 +49,7 @@
 ### DNN
 * [MNIST 手寫辨識](https://github.com/jumbokh/nknu-class/blob/main/notebook/04_02_%E6%89%8B%E5%AF%AB%E9%98%BF%E6%8B%89%E4%BC%AF%E6%95%B8%E5%AD%97%E8%BE%A8%E8%AD%98_%E5%AE%8C%E6%95%B4%E7%89%88.ipynb)
 * [Fashion MNIST 手寫辨識](https://github.com/jumbokh/nknu-class/blob/main/notebook/04_03_FashionMnist_%E5%AF%A6%E9%A9%97.ipynb)
-### CNN
+### CNN [CH04 CNN ppt](https://github.com/jumbokh/nknu-class/blob/main/docs/CH04_CNN.ppt)
 * [用 tf.data 加载图片](https://www.tensorflow.org/tutorials/load_data/images?hl=zh-cn)
 * [TensorFlow 数据集](https://www.tensorflow.org/datasets/overview?hl=zh-cn)
 * [TF1.x MNIST CNN](https://github.com/jumbokh/nknu-class/blob/main/notebook/02_1_%E7%94%A8CNN%E5%9C%96%E5%BD%A2%E8%BE%A8%E8%AD%98%EF%BC%88%E9%82%84%E6%98%AFMNIST%EF%BC%89.ipynb)
