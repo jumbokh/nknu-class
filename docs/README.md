@@ -18,3 +18,5 @@
 * [code](https://drive.google.com/file/d/1Nu40K8FBsfEC9_VaCE8xC3_VRh8dS0c6/view?usp=sharing)
 ### F9379 : [Deep learning 深度學習必讀 - Keras 大神帶你用 Python 實作](https://www.flag.com.tw/books/product/F9379)
 * [code](https://drive.google.com/drive/folders/1y0Re48J03QJKMBgcTQb673ViCJGvRS7f?usp=sharing)
+### 深智 DM2145 [深度學習 最佳入門邁向AI專題實戰](https://deepmind.com.tw/?product=%e6%b7%b1%e5%ba%a6%e5%ad%b8%e7%bf%92-%e6%9c%80%e4%bd%b3%e5%85%a5%e9%96%80%e9%82%81%e5%90%91ai%e5%b0%88%e9%a1%8c%e5%af%a6%e6%88%b0dm2145)
+* [github code](https://github.com/mc6666/DL_Book)
