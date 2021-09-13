@@ -13,3 +13,8 @@
 ### mp22004 : 輕鬆學會Google TensorFlow 2.0人工智慧深度學習實作開發
 * [簡報檔](https://drive.google.com/drive/folders/1izgd0gzKTqHck871wP1XSZa9K5Ukjuoc?usp=sharing)
 * [lAB](https://drive.google.com/drive/folders/1RIAZivl1IG4vbC2sf0h_N8jRnfiiL0tU?usp=sharing)
+### F9744 : [TensorFlow 與 Keras - Python 深度學習應用實務](https://www.flag.com.tw/books/product/F9744)
+* [簡報檔](https://drive.google.com/drive/folders/13-PMOxyk-viCE_3Ki4faJP97TK0E1Sxm?usp=sharing)
+* [code](https://drive.google.com/file/d/1Nu40K8FBsfEC9_VaCE8xC3_VRh8dS0c6/view?usp=sharing)
+### F9379 : [Deep learning 深度學習必讀 - Keras 大神帶你用 Python 實作](https://www.flag.com.tw/books/product/F9379)
+* [code](https://drive.google.com/drive/folders/1y0Re48J03QJKMBgcTQb673ViCJGvRS7f?usp=sharing)
