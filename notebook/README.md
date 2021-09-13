@@ -60,6 +60,11 @@
 * [MNIST CNN 資料增補(Data Augmentation)](https://github.com/jumbokh/nknu-class/blob/main/notebook/06_05_Data_Augmentation_MNIST.ipynb)
     * [Tensorflow 官網 ImageDataGenerator() 說明](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator)
 <pre>
+# 資料增補(Data Augmentation) 程式片段
+import tensorflow as tf
+from tensorflow.keras import layers
+import numpy as np
+
 # 參數設定
 batch_size = 1000
 epochs = 5
