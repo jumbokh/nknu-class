@@ -15,6 +15,7 @@
 * [用 tf.data 加载图片](https://github.com/jumbokh/nknu-class/blob/main/notebook/images.ipynb)
 * [tf dataset overview](https://github.com/jumbokh/nknu-class/blob/main/notebook/overview.ipynb)
 * [one hot encoding/label](https://github.com/jumbokh/nknu-class/blob/main/notebook/Treat_category.ipynb)
+* [使用程式計算卷積](https://github.com/jumbokh/nknu-class/blob/main/notebook/06_01_convolutions.ipynb)
 ### 線性迴歸 [吳恩達  Linear Regression and Gradient Descent](https://www.youtube.com/watch?v=4b4MUYve_U8&list=RDCMUCBa5G_ESCn8Yd4vw5U-gIcg&start_radio=1&rv=4b4MUYve_U8&t=1817)
 ##### [李宏毅 Regression](https://www.youtube.com/watch?v=fegAeph9UaA&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&index=3)
 ##### [data](https://drive.google.com/drive/folders/1XiQR_SLgXYfnpdZFnx088iOarb3bYizu?usp=sharing)
