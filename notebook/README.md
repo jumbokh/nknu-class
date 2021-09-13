@@ -100,6 +100,7 @@ history = model.fit(datagen.flow(x_train, y_train, batch_size=batch_size), epoch
 * [二元分類--IMDB](https://github.com/jumbokh/class1091/blob/master/ML/docs/%E4%BA%8C%E5%85%83%E5%88%86%E9%A1%9E.pdf)
 * [Logistic regression](https://github.com/jumbokh/class1091/blob/master/ML/docs/Keras-%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E5%85%A5%E9%96%80Logistic.pdf)
 * [李宏毅 CNN](https://github.com/jumbokh/nknu-class/blob/main/docs/%E6%9D%8E%E5%AE%8F%E6%AF%85-CNN.pdf)
+* [深智CNN ppt](https://docs.google.com/presentation/d/1lbC5MCb0fyWQqFwGbgHYHqi0SC84lO3g/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true)
 * [斯坦福大学2014机 器学习教程中文笔记--Logistic](https://github.com/jumbokh/class1091/blob/master/ML/docs/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A62014%E6%9C%BA%20%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B%E4%B8%AD%E6%96%87%E7%AC%94%E8%AE%B0Logistic.pdf)
 * [TensorFlow Codelabs 网站](https://codelabs.tf.wiki/)
 * [keras 文件](https://keras.io/zh/)
