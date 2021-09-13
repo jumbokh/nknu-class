@@ -59,6 +59,25 @@
 * [CNN 視覺化(Feature Map)](https://github.com/jumbokh/nknu-class/blob/main/notebook/06_07_CNN_Visualization.ipynb)
 * [MNIST CNN 資料增補(Data Augmentation)](https://github.com/jumbokh/nknu-class/blob/main/notebook/06_05_Data_Augmentation_MNIST.ipynb)
     * [Tensorflow 官網 ImageDataGenerator() 說明](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator)
+<pre>
+# 參數設定
+batch_size = 1000
+epochs = 5
+
+# 資料增補定義
+datagen = tf.keras.preprocessing.image.ImageDataGenerator(
+        rescale=1./255,         # 特徵縮放
+        rotation_range=10,      # 旋轉 10 度
+        zoom_range=0.1,         # 拉遠/拉近 10%
+        width_shift_range=0.1,  # 寬度偏移  10%
+        height_shift_range=0.1) # 高度偏移  10%
+
+# 增補資料，進行模型訓練
+datagen.fit(x_train)
+history = model.fit(datagen.flow(x_train, y_train, batch_size=batch_size), epochs=epochs,
+          validation_data=datagen.flow(x_test, y_test, batch_size=batch_size), verbose=2,
+          steps_per_epoch=x_train.shape[0]//batch_size)
+</pre>
 * [Pet CNN 資料增補(Data Augmentation)](https://github.com/jumbokh/nknu-class/blob/main/notebook/06_06_Data_Augmentation_Pets.ipynb)
 ### 參考
 * [李宏毅—1天搞懂深度学习](https://github.com/jumbokh/class1091/blob/master/ML/%E6%9D%8E%E5%AE%8F%E6%AF%85%E2%80%941%E5%A4%A9%E6%90%9E%E6%87%82%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
