@@ -36,6 +36,7 @@
 * [Tensorflow Dataset: MNIST](https://github.com/jumbokh/nknu-class/blob/main/notebooks/tensorflow_datasets.ipynb)
 ### 二元分類 [二元分類參考:女神書 Ch03 IMDB](https://github.com/jumbokh/class1091/blob/master/ML/docs/%E4%BA%8C%E5%85%83%E5%88%86%E9%A1%9E.pdf)
 * [ch3 二元分類:IMDB](https://github.com/jumbokh/nknu-class/blob/main/notebook/Ch03.ipynb)
+* [ch4 過擬合調整](https://github.com/jumbokh/nknu-class/blob/main/notebook/Ch04.ipynb)
 * [Kaggle: IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) ([, code](https://www.kaggle.com/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews))
 * [Keras深度学习实践2—二分类、多分类和标量回归问题简单实现](https://zhuanlan.zhihu.com/p/63192044)
 * [Keras 深度学习库的二元分类教程](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/dl-keras/binary-classification-tutorial-with-the-keras-deep-learning-library.md)
