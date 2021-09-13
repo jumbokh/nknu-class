@@ -76,3 +76,4 @@
 * [斯坦福大学2014机 器学习教程中文笔记--Logistic](https://github.com/jumbokh/class1091/blob/master/ML/docs/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A62014%E6%9C%BA%20%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B%E4%B8%AD%E6%96%87%E7%AC%94%E8%AE%B0Logistic.pdf)
 * [TensorFlow Codelabs 网站](https://codelabs.tf.wiki/)
 * [keras 文件](https://keras.io/zh/)
+* [DNN 與 ANN 區別](https://blog.csdn.net/bluebelfast/article/details/17140489)
