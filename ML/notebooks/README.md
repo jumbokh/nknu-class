@@ -1,3 +1,4 @@
+### [Notebooks](https://github.com/jumbokh/nknu-class/blob/main/ML/notebooks/Notebooks.md)
 ### K-Means && K Nearest Neighber
 <pre>
 KNN就是讓你透過一群已經標記好類別的資料，來針對未分類的資料做分類的工具。
