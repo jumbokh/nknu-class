@@ -54,3 +54,4 @@ Topuc 4. 氣象局開放資料擷取
 * [政大 蔡炎龍老師 program](https://github.com/jumbokh/Deep-Learning-Basics)
 * [classpy](https://github.com/cylcc06/classpy)
 * [ApacheCN 深度學習](https://www.ixyread.com/read/apachecn-dl-zh/SUMMARY.md)
+* [Github: handson-unsupervised-learning](https://github.com/aapatel09/handson-unsupervised-learning)
