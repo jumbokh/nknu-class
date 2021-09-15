@@ -1,4 +1,19 @@
 ### [Notebooks](https://github.com/jumbokh/nknu-class/blob/main/ML/notebooks/Notebooks.md)
+### Clustering 分群法
+<pre>
+目的是將相似的實例聚成一組。分群法很適合用於資料分析、顧客細分、推薦系統、
+搜尋引擎、圖像分割、半監督學習、降維，及其他
+</pre>
+### anomaly detection 異常檢測
+<pre>
+目的是學習 "正常" 的資料長怎麼樣，接著用它來偵測不正常的實例。
+</pre>
+### density estimation 密度估計
+<pre>
+目的是估計產生資料集的隨機程序的機率密度函數(PDF)。
+密度估計通常用於異常檢測：在密度很低的區域中的實例很有可能是異常的。
+他也很適合用來分析資料與視覺化。
+</pre>
 ### K-Means && K Nearest Neighber
 <pre>
 KNN就是讓你透過一群已經標記好類別的資料，來針對未分類的資料做分類的工具。
