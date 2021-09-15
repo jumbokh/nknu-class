@@ -55,3 +55,8 @@ y_pred = kmeans.fit_predict(X)
 <pre>
 K-means簡單快速的方法被廣泛的使用，但是實際運用上還是有一些問題需要被克服。正所謂萬事起頭難，K-means一開始會先要求你提供K，但是k到底要多少才合理？ 
 </pre>
+#### 書籍
+* [精通機器學習：使用Scikit-Learn, Keras與TensorFlow 第二版](https://www.books.com.tw/products/0010854043?gclid=Cj0KCQjws4aKBhDPARIsAIWH0JVf3gBKAAnbDrWncGpqfxvLBrJuyEIOVsyu_7_5-pYcb4uRh7ikXhQaAtvpEALw_wcB)
+* [非監督式學習：使用Python](https://www.books.com.tw/products/0010852754?loc=P_br_r0vq68ygz_D_2aabd0_B_2)
+* [一書貫通：從資料科學橫入人工智慧領域](https://www.books.com.tw/products/0010806798)
+* [一行指令學Python：用機器學習掌握人工智慧](https://www.books.com.tw/products/0010872905?loc=M_0009_001)
