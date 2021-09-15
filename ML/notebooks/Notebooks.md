@@ -1,6 +1,6 @@
 ### KNN
 * [Basic KNN](https://github.com/jumbokh/nknu-class/blob/main/ML/notebooks/Basic_KNN.ipynb)
-* [Dated Web](https://github.com/jumbokh/nknu-class/blob/main/ML/notebooks/ch11_1_knn.ipynb) ()
+* [Dated Web](https://github.com/jumbokh/nknu-class/blob/main/ML/notebooks/ch11_1_knn.ipynb) (sklearn)
 * [Dated Web: BernoulliNB](https://github.com/jumbokh/nknu-class/blob/main/ML/notebooks/ch11_1_KNN_NB.ipynb)
 * [Dated Web: kNN](https://colab.research.google.com/github/jumbokh/nknu-class/blob/main/ML/notebooks/knn_DatingWeb.ipynb)
 #### Iris
