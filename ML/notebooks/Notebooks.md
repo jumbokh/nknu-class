@@ -12,6 +12,7 @@
 #### Cluster
 * [clustering](https://github.com/jumbokh/nknu-class/blob/main/ML/notebooks/05_clustering.ipynb)
 #### K-Means
+* [Github: handson-ml2](https://colab.research.google.com/github/ageron/handson-ml2/blob/master/09_unsupervised_learning.ipynb)
 * [In Depth: k-Means Clustering](https://github.com/jumbokh/nknu-class/blob/main/ML/notebooks/05.11-K-Means.ipynb)
     * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 * CH19
