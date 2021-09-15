@@ -16,7 +16,7 @@
     * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 * CH19
     * [19-1](https://github.com/jumbokh/nknu-class/blob/main/ML/notebooks/ch19_1.ipynb)
-    * [19-2]()
+    * [19](https://github.com/jumbokh/nknu-class/blob/main/ML/notebooks/ch19.ipynb)
 #### anomaly_detection
 * [PCA anomaly_detection](https://github.com/jumbokh/nknu-class/blob/main/ML/notebooks/PCA-04_anomaly_detection.ipynb)
 #### PIMA Indians Diabetes
