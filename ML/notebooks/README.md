@@ -21,6 +21,12 @@ KNN就是讓你透過一群已經標記好類別的資料，來針對未分類�
 那如果只有一群尚未分類的資料，我們要怎麼將他分類呢？
 </pre>
 ##
+<pre>
+from sklearn.cluster import KMeans
+k = 5
+kmeans = KMeans(n_clusters=k)
+y_pred = kmeans.fir_predict(X)
+</pre>
 #### K-Means 運作流程
 <pre>
 1. 先決定K
