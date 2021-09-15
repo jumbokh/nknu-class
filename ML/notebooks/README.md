@@ -59,7 +59,8 @@ K-means簡單快速的方法被廣泛的使用，但是實際運用上還是有�
 * [歐幾里得距離](https://zh.wikipedia.org/wiki/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E8%B7%9D%E7%A6%BB)
 * [曼哈頓距離](https://zh.wikipedia.org/wiki/%E6%9B%BC%E5%93%88%E9%A0%93%E8%B7%9D%E9%9B%A2)
 * [各種距離](https://www.itread01.com/content/1524567619.html)
-* [K-近鄰演算法 KNN](https://pyecontech.com/2020/04/19/knn/)
+* [K-近鄰演算法 KNN](https://pyecontech.com/2020/04/19/knn/) 
+* [K-近鄰演算法 KNN範例](https://www.itread01.com/content/1546304971.html)
 #### 書籍
 * [精通機器學習：使用Scikit-Learn, Keras與TensorFlow 第二版](https://www.books.com.tw/products/0010854043?gclid=Cj0KCQjws4aKBhDPARIsAIWH0JVf3gBKAAnbDrWncGpqfxvLBrJuyEIOVsyu_7_5-pYcb4uRh7ikXhQaAtvpEALw_wcB)
 * [非監督式學習：使用Python](https://www.books.com.tw/products/0010852754?loc=P_br_r0vq68ygz_D_2aabd0_B_2)
