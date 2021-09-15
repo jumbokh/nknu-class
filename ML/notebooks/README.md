@@ -1,5 +1,5 @@
 ### [Notebooks](https://github.com/jumbokh/nknu-class/blob/main/ML/notebooks/Notebooks.md)
-### Clustering 分群法
+### Clustering 分群法、[聚類方法](https://github.com/jumbokh/nknu-class/blob/main/docs/%E8%81%9A%E9%A1%9E%E6%96%B9%E6%B3%95.pdf)
 <pre>
 目的是將相似的實例聚成一組。分群法很適合用於資料分析、顧客細分、推薦系統、
 搜尋引擎、圖像分割、半監督學習、降維，及其他
