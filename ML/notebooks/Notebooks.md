@@ -6,6 +6,7 @@
 #### Iris
 * [CH7 KNN Iris](https://github.com/jumbokh/nknu-class/blob/main/ML/notebooks/Ch7-KNN-iris.ipynb)
 * [CH7 KNN Iris-1](https://github.com/jumbokh/nknu-class/blob/main/ML/notebooks/Ch7_KNN_iris.ipynb)
+* [scikit-learn iris KNN plot ex](https://github.com/jumbokh/nknu-class/blob/main/ML/notebooks/iris-KNN-plot_classification.ipynb)
 * [Iris K-means: 0.94](https://colab.research.google.com/github/jumbokh/nknu-class/blob/main/ML/notebooks/iris_kmeans.ipynb)
 * [Simple K-means clustering on the Iris dataset](https://github.com/jumbokh/nknu-class/blob/main/ML/notebooks/simple-k-means-clustering-on-the-iris-dataset.ipynb)
 * [Iris SVM xgboost](https://github.com/jumbokh/nknu-class/blob/main/ML/notebooks/visualizing-knn-svm-and-xgboost-on-iris-dataset.ipynb)
