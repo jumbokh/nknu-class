@@ -1,5 +1,7 @@
 ### PCA
 #### 維度縮減演算法將高維的資料投影至低維空間，同時透過移除冗餘資訊，儘可能的維持了最多的顯著資訊。
+#### PCA 藉由處理特徵間的相關性來達到目的。 如果一個特徵子集內的特徵彼此相關程度很高，PCA 會試著合併
+#### 這些高相關的特徵，並且以較少量的線性無關的特徵來表示資料。
 #### [GITHUB: Hands-on Unsupervised Learning Using Python](https://github.com/aapatel09/handson-unsupervised-learning)
 ##### [MNIST 手寫數字資料集](http://yann.lecun.com/exdb/mnist)
 ### 維度縮減
