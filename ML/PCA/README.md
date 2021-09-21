@@ -4,6 +4,7 @@
 #### 這些高相關的特徵，並且以較少量的線性無關的特徵來表示資料。
 #### [GITHUB: Hands-on Unsupervised Learning Using Python](https://github.com/aapatel09/handson-unsupervised-learning)
 ##### [MNIST 手寫數字資料集](http://yann.lecun.com/exdb/mnist)
+    ##### 進行特徵縮放是運用PCA前的必要步驟，但以MNIST資料集來說，特徵值已縮放到0至1的範圍內了，所以可以跳過這個步驟。
 ### 維度縮減
 #### 1. 線性投影
 * 主成分分析、奇異值分解、隨機投影
