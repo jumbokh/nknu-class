@@ -17,3 +17,4 @@
 ###### 進行特徵縮放是運用PCA前的必要步驟，但以MNIST資料集來說，特徵值已縮放到0至1的範圍內了，所以可以跳過這個步驟。
 * [Notebook: 03_dimensionality_reductio](https://github.com/jumbokh/nknu-class/blob/main/ML/PCA/03_dimensionality_reduction.ipynb)
 * [PCA: DatingWeb](https://github.com/jumbokh/nknu-class/blob/main/ML/PCA/PCA_DatedWeb.ipynb)
+* [Iris KNN,PCA and Select K Best](https://github.com/jumbokh/nknu-class/blob/main/ML/PCA/4_2_KNN%2C_PCA_and_SelectKBest.ipynb)
