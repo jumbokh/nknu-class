@@ -1,6 +1,7 @@
 # nknu-class
 * [課綱](https://github.com/jumbokh/nknu-class/blob/main/docs/%E5%8B%9E%E8%A8%93%E8%AA%B2%E7%B6%B1-%E8%AC%9D%E5%9D%A4%E9%81%940903.xlsx)
 * ![class AI](https://github.com/jumbokh/nknu-class/blob/main/docs/NKNU-class.JPG)
+#### [特徵工程](https://github.com/jumbokh/nknu-class/blob/main/ML/notebooks/05.04-Feature-Engineering.ipynb)
 #### [非監督式學習](https://github.com/aapatel09/handson-unsupervised-learning) (http://bit.ly/2Gd4v7e)
 * [KNN](https://github.com/jumbokh/nknu-class/blob/main/ML/KNN.md)
 * [PCA](https://github.com/jumbokh/nknu-class/blob/main/ML/PCA/README.md)
