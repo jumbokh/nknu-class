@@ -13,6 +13,8 @@
 * 獨立成分分析 (independent component analysis)
 ##
 #### [GITHUB: Hands-on Unsupervised Learning Using Python](https://github.com/aapatel09/handson-unsupervised-learning)
+#### [Github: Handson-ml2](https://github.com/ageron/handson-ml2)
+#### [Github: Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 ##### [MNIST 手寫數字資料集](http://yann.lecun.com/exdb/mnist)
 ###### 進行特徵縮放是運用PCA前的必要步驟，但以MNIST資料集來說，特徵值已縮放到0至1的範圍內了，所以可以跳過這個步驟。
 ##
