@@ -15,6 +15,11 @@
 #### [GITHUB: Hands-on Unsupervised Learning Using Python](https://github.com/aapatel09/handson-unsupervised-learning)
 ##### [MNIST 手寫數字資料集](http://yann.lecun.com/exdb/mnist)
 ###### 進行特徵縮放是運用PCA前的必要步驟，但以MNIST資料集來說，特徵值已縮放到0至1的範圍內了，所以可以跳過這個步驟。
-* [Notebook: 03_dimensionality_reductio](https://github.com/jumbokh/nknu-class/blob/main/ML/PCA/03_dimensionality_reduction.ipynb)
+##
+#### Notebooks
+* [03_dimensionality_reduction](https://github.com/jumbokh/nknu-class/blob/main/ML/PCA/03_dimensionality_reduction.ipynb)
+* [08_dimensionality_reduction](https://github.com/jumbokh/nknu-class/blob/main/ML/PCA/08_dimensionality_reduction.ipynb)
 * [PCA: DatingWeb](https://github.com/jumbokh/nknu-class/blob/main/ML/PCA/PCA_DatedWeb.ipynb)
+* [Hand Write digits](https://github.com/jumbokh/nknu-class/blob/main/ML/PCA/05_09_Principal_Component_Analysis.ipynb)
 * [Iris KNN,PCA and Select K Best](https://github.com/jumbokh/nknu-class/blob/main/ML/PCA/4_2_KNN%2C_PCA_and_SelectKBest.ipynb)
+* [PCA: anomaly detection](https://github.com/jumbokh/nknu-class/blob/main/ML/PCA/04_anomaly_detection.ipynb)
