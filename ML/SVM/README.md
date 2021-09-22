@@ -1,5 +1,5 @@
 ### SVM 支援向量機
-* [ML Lecture 20：Support Vector Machine (SVM)](https://www.cupoy.com/collection/00000168E4E001DA000000016375706F795F72656C656173654355/00000168EA21EFFD0000001E6375706F795F72656C656173654349) [, Youtube](https://www.youtube.com/watch?v=QSEPStBgwRQ&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&index=30)
+* [ML Lecture 20：Support Vector Machine (SVM)](https://www.cupoy.com/collection/00000168E4E001DA000000016375706F795F72656C656173654355/00000168EA21EFFD0000001E6375706F795F72656C656173654349) ([, Youtube](https://www.youtube.com/watch?v=QSEPStBgwRQ&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&index=30))
 * [李宏毅_ML_Lecture_20](https://hackmd.io/@shaoeChen/B1CoXxvmm/https%3A%2F%2Fhackmd.io%2Fs%2FB1zzzspxE)
 * [簡報](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/SVM%20%28v5%29.pdf)
 * [kaggle: Support Vector Machines Classifier Tutorial with Python](https://www.kaggle.com/kuntahsieh/svm-classifier-tutorial/edit)
