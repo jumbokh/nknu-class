@@ -60,10 +60,11 @@ Topuc 4. 氣象局開放資料擷取
 * [classpy](https://github.com/cylcc06/classpy)
 * [ApacheCN 深度學習](https://www.ixyread.com/read/apachecn-dl-zh/SUMMARY.md)
 * [Github: handson-unsupervised-learning](https://github.com/aapatel09/handson-unsupervised-learning)
-* [應用開放資料預測農產品菜價之研究, 師範大學, 翟柏森](http://nccur.lib.nccu.edu.tw/handle/140.119/118330) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/paper.pdf) [[資料說明]](https://github.com/jumbokh/DataScience_1082/tree/master/examples) [感謝作者翟先生提供論文資料]
-        * [線上發表會](http://knowledge.colife.org.tw/one_video/index.aspx?sid=10804)
-        * [農產品交易開放資料](https://data.coa.gov.tw/Query/ServiceDetail.aspx?id=037)
-        * [氣象開放資料](http://e-service.cwb.gov.tw/HistoryDataQuery/)
-        * [颱風警報](https://rdc28.cwb.gov.tw/)
-        * [論文取得資料](https://drive.google.com/open?id=1OgMsd98AuFppckQyvCgtgeW90OKHKUK4)
+* [應用開放資料預測農產品菜價之研究, 師範大學, 翟柏森](http://nccur.lib.nccu.edu.tw/handle/140.119/118330) 
+    * [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/paper.pdf) [[資料說明]](https://github.com/jumbokh/DataScience_1082/tree/master/examples) [感謝作者翟先生提供論文資料]
+    * [線上發表會](http://knowledge.colife.org.tw/one_video/index.aspx?sid=10804)
+    * [農產品交易開放資料](https://data.coa.gov.tw/Query/ServiceDetail.aspx?id=037)
+    * [氣象開放資料](http://e-service.cwb.gov.tw/HistoryDataQuery/)
+    * [颱風警報](https://rdc28.cwb.gov.tw/)
+    * [論文取得資料](https://drive.google.com/open?id=1OgMsd98AuFppckQyvCgtgeW90OKHKUK4)
     * [氣象局開放資料擷取](https://opendata.cwb.gov.tw/dataset/climate?page=1)
