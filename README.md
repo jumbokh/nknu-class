@@ -53,6 +53,7 @@ Topuc 4. 氣象局開放資料擷取
 * [F9744 examples](http://www.flag.com.tw/DL.asp?F9744)
 * [Deep learning 深度學習必讀：Keras 大神帶你用 Python 實作](https://www.books.com.tw/products/0010822932)
 * ![Deep Learning Keras](https://github.com/jumbokh/nknu-class/blob/main/docs/book1.jpg)
+* ![	精通機器學習｜使用Scikit-Learn, Keras與TensorFlow 第二版](https://github.com/jumbokh/nknu-class/blob/main/docs/2014713594457m.jpg)
 #### 參考
 * [python data science handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Hands-on Unsupervised Learning Using Python](https://github.com/aapatel09/handson-unsupervised-learning)
