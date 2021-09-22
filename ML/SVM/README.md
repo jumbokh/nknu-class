@@ -25,3 +25,4 @@
 #### Notebook
 * [HANDSON-ML2 SVM](https://github.com/jumbokh/nknu-class/blob/main/ML/SVM/05_support_vector_machines.ipynb)
 * [python data science handbook - SVM](https://github.com/jumbokh/nknu-class/blob/main/ML/SVM/05.07-Support-Vector-Machines.ipynb)
+* [C全華， 用機器學習掌握人工智慧， 徐聖訓](https://github.com/jumbokh/nknu-class/blob/main/ML/SVM/CH8-SVM.ipynb)
