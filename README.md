@@ -55,6 +55,8 @@ Topuc 4. 氣象局開放資料擷取
 * ![Deep Learning Keras](https://github.com/jumbokh/nknu-class/blob/main/docs/book1.jpg)
 #### 參考
 * [python data science handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+* [Hands-on Unsupervised Learning Using Python](https://github.com/aapatel09/handson-unsupervised-learning)
+* [Machine Learning Notebooks](https://github.com/ageron/handson-ml2)
 * [Linear Regression on Boston Housing Dataset](https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b7e4a155)
 * [深度學習 -- 二元分類](https://zhuanlan.zhihu.com/p/62989429)
 * [可视化理解Binary Cross-Entropy](https://zhuanlan.zhihu.com/p/89391305)
