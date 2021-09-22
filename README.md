@@ -6,8 +6,8 @@
 * [KNN](https://github.com/jumbokh/nknu-class/blob/main/ML/KNN.md)
 * [PCA](https://github.com/jumbokh/nknu-class/blob/main/ML/PCA/README.md)
 * [SVM](https://github.com/jumbokh/nknu-class/tree/main/ML/SVM)
-* [Decision Tree]()
-* [Ensemble]()
+* [Decision Tree](https://github.com/jumbokh/nknu-class/tree/main/ML/DecisionTree)
+* [Ensemble](https://github.com/jumbokh/nknu-class/tree/main/ML/Ensemble)
 #### PPT
 * [人工智慧概論 ppt](https://github.com/jumbokh/nknu-class/blob/main/docs/README.md)
 * [Tensorflow 2.0 深度學習](https://docs.google.com/presentation/d/1GDXb2ajOigrlUDO-cGQtkvCo1Je8zhBc/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true) ## 8/31
