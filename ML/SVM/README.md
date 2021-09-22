@@ -11,6 +11,9 @@
 * w 和 b 表示超平面的係數向量與截距，x表示輸入資料集的引數集。
 * 如果: 資料集的兩個類別的點完全分到超平面的兩側，那麼這個資料集被稱為線性可分，否則稱為線性不可分。
 * ![SVM](https://github.com/jumbokh/nknu-class/blob/main/ML/SVM/0mHdRUP.png)
+#### SVM 運作原理 (全華，用機器學習掌握人工智慧)
+* 找出一個線性平面，試圖將不同類別之間的距離最大化。
+* 如果無法做線性分割，就將不同類別的資料投射至高為度空間再做分割。
 #### References
 * [ML Lecture 20：Support Vector Machine (SVM)](https://www.cupoy.com/collection/00000168E4E001DA000000016375706F795F72656C656173654355/00000168EA21EFFD0000001E6375706F795F72656C656173654349) ([, Youtube](https://www.youtube.com/watch?v=QSEPStBgwRQ&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&index=30))
 * [李宏毅_ML_Lecture_20](https://hackmd.io/@shaoeChen/B1CoXxvmm/https%3A%2F%2Fhackmd.io%2Fs%2FB1zzzspxE)
