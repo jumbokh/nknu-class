@@ -17,6 +17,14 @@ X_reduced = pca.fit_transform(X_train)
 # 恢復784維
 X_recovered = pca.inverse_transform(X_reduced)
 </pre>
+* 選擇成分的數量
+<pre>
+pca = PCA().fit(digits.data)
+plt.plot(np.cumsum(pca.explained_variance_ratio_))
+plt.xlabel('number of components')
+plt.ylabel('cumulative explained variance');
+</pre>
+![曲線](https://github.com/jumbokh/nknu-class/blob/main/ML/PCA/pca.png)
 ### 維度縮減
 #### 1. 線性投影
 * 主成分分析、奇異值分解、隨機投影
