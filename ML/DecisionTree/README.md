@@ -14,3 +14,4 @@
 #### Notebooks
 * [Handson-ml2: Decision Tree](https://github.com/jumbokh/nknu-class/blob/main/ML/DecisionTree/06_decision_trees.ipynb)
 * [Python data science handbook -- Random Forests](https://github.com/jumbokh/nknu-class/blob/main/ML/DecisionTree/05.08-Random-Forests.ipynb)
+* [Ch9 全華， 用機器學習掌握人工智慧， 徐聖訓](https://github.com/jumbokh/nknu-class/blob/main/ML/DecisionTree/Ch9-DecisionTree.ipynb)
