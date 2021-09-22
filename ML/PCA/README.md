@@ -17,6 +17,7 @@
 #### [Github: Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 ##### [MNIST 手寫數字資料集](http://yann.lecun.com/exdb/mnist)
 ###### 進行特徵縮放是運用PCA前的必要步驟，但以MNIST資料集來說，特徵值已縮放到0至1的範圍內了，所以可以跳過這個步驟。
+* [PCA using Python (scikit-learn)](https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60)
 ##
 #### Notebooks
 * [03_dimensionality_reduction](https://github.com/jumbokh/nknu-class/blob/main/ML/PCA/03_dimensionality_reduction.ipynb)
