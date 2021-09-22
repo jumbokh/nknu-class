@@ -24,6 +24,7 @@
 * [python data science handbook: PCA](https://github.com/jumbokh/nknu-class/blob/main/ML/PCA/PCA_1.ipynb)
 * [PCA: DatingWeb](https://github.com/jumbokh/nknu-class/blob/main/ML/PCA/PCA_DatedWeb.ipynb)
 * [PCA & KNN-1: Dating Web](https://github.com/jumbokh/nknu-class/blob/main/ML/PCA/classified_DatingWeb_1.ipynb)
+* [PCA,Select K Best](https://github.com/jumbokh/nknu-class/blob/main/ML/PCA/classified_DatingWeb_2.ipynb)
 * [Hand Write digits](https://github.com/jumbokh/nknu-class/blob/main/ML/PCA/05_09_Principal_Component_Analysis.ipynb)
 * [Iris KNN,PCA and Select K Best](https://github.com/jumbokh/nknu-class/blob/main/ML/PCA/4_2_KNN%2C_PCA_and_SelectKBest.ipynb)
 * [PCA: anomaly detection](https://github.com/jumbokh/nknu-class/blob/main/ML/PCA/04_anomaly_detection.ipynb)
