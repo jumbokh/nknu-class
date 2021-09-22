@@ -3,6 +3,7 @@
 * [Dated Web](https://github.com/jumbokh/nknu-class/blob/main/ML/notebooks/ch11_1_knn.ipynb) (sklearn)
 * [Dated Web: BernoulliNB](https://github.com/jumbokh/nknu-class/blob/main/ML/notebooks/ch11_1_KNN_NB.ipynb) (sklearn)
 * [Dated Web: kNN](https://colab.research.google.com/github/jumbokh/nknu-class/blob/main/ML/notebooks/knn_DatingWeb.ipynb)
+* [Dating Web -- 待完成](https://github.com/jumbokh/nknu-class/blob/main/ML/notebooks/Failed_KNN_DatedWeb.ipynb)
 #### Iris
 * [CH7 KNN Iris](https://github.com/jumbokh/nknu-class/blob/main/ML/notebooks/Ch7-KNN-iris.ipynb)
 * [CH7 KNN Iris-1](https://github.com/jumbokh/nknu-class/blob/main/ML/notebooks/Ch7_KNN_iris.ipynb)
