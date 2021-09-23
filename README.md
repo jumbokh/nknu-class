@@ -55,6 +55,7 @@ Topuc 4. 氣象局開放資料擷取
 * ![Deep Learning Keras](https://github.com/jumbokh/nknu-class/blob/main/docs/book1.jpg)
 * ![	精通機器學習｜使用Scikit-Learn, Keras與TensorFlow 第二版](https://github.com/jumbokh/nknu-class/blob/main/docs/2014713594457m.jpg)
 * [Book info](http://books.gotop.com.tw/v_A590), [github](https://github.com/ageron/handson-ml2)
+* [線上閱讀](https://hands1ml.apachecn.org/#/)
 #### 參考
 * [python data science handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Hands-on Unsupervised Learning Using Python](https://github.com/aapatel09/handson-unsupervised-learning)
