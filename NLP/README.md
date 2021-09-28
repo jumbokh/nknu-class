@@ -5,3 +5,4 @@
 ### 參考
 * [CNN & RNN](https://github.com/jumbokh/intro-computers/blob/master/CNN-RNN.md)
 * [swesome RNN](https://github.com/kjw0612/awesome-rnn)
+* [Text Classification with CNN and RNN](https://github.com/gaussic/text-classification-cnn-rnn)
