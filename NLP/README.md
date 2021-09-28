@@ -4,3 +4,4 @@
 ##
 ### 參考
 * [CNN & RNN](https://github.com/jumbokh/intro-computers/blob/master/CNN-RNN.md)
+* [swesome RNN](https://github.com/kjw0612/awesome-rnn)
