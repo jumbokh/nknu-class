@@ -1,4 +1,7 @@
 ### NLP : Natural Language Process
+### 簡報
+* [深度學習最佳入門邁向AI專題實戰](https://github.com/jumbokh/nknu-class/blob/main/NLP/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E6%9C%80%E4%BD%B3%E5%85%A5%E9%96%80%E9%82%81%E5%90%91AI%E5%B0%88%E9%A1%8C%E5%AF%A6%E6%88%B0_%E6%95%99%E5%AD%B8%E8%B3%87%E6%BA%90_3_V1.pdf)
+* [RNN & LSTM -- 李宏毅](https://github.com/jumbokh/nknu-class/blob/main/NLP/RNN%20(v2).pdf)
 * Dataset:
     * [kindle_rating.csv](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/kindle_rating.csv)
     * [tripadvisor.xlsx](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/tripadvisor.xlsx)
