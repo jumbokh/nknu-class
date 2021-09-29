@@ -38,7 +38,7 @@
 * [中文斷詞與文字雲教學](http://120.108.221.55/profchwu/dctai/%E6%95%99%E6%9D%90/%E6%96%B7%E8%A9%9E%E8%88%87%E6%96%87%E5%AD%97%E9%9B%B2/%E6%96%B7%E8%A9%9E%E8%88%87%E6%96%87%E5%AD%97%E9%9B%B2%E6%95%99%E5%AD%B8.pdf)
 ### Book
 * [用python進行自然語言處理](https://www.nltk.org/book/)
-* [博客來 -- Natural Language Processing with Python](https://www.books.com.tw/products/F011662715)
+* [博客來 -- Natural Language Processing with Python](https://www.books.com.tw/products/F011662715) [, CN PDF](https://drive.google.com/file/d/1fLvukfrhR6fIo4lqftVHLaJDVoB0Skt3/view?usp=sharing)
 ### jieba
 # jieba-tw
 
