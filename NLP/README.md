@@ -31,6 +31,16 @@
 * [NLP -- RNN & Attentions](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/16_nlp_with_rnns_and_attention.ipynb)
 * [kaggle: bitcoin](https://www.kaggle.com/mczielinski/bitcoin-historical-data/version/16) 
 ##
+### 
+* [Ch12-1 RNN test](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/12_01_RNN_test.ipynb)
+* [Ch12-2 LSTM IMDB](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/12_02_LSTM_IMDB.ipynb)
+* [Ch12-3 LSTM IMDB Text](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/12_03_LSTM_IMDB_Text.ipynb)
+* [Ch12-4 LSTM 參數測試](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/12_04_LSTM_%E5%8F%83%E6%95%B8%E6%B8%AC%E8%A9%A6.ipynb)
+* [Ch12-5 Stacked LSTM](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/12_05_Stacked_LSTM.ipynb)
+* [CH12-6 Stock Forecast](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/12_06_Stock_Forecast.ipynb)
+* [Ch12-7 機器翻譯](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/12_07_%E6%A9%9F%E5%99%A8%E7%BF%BB%E8%AD%AF.ipynb)
+* [Ch12-8 機器翻譯 Attention](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/12_07_%E6%A9%9F%E5%99%A8%E7%BF%BB%E8%AD%AF_attention.ipynb)
+##
 ### 參考
 * [CNN & RNN](https://github.com/jumbokh/intro-computers/blob/master/CNN-RNN.md)
 * [swesome RNN](https://github.com/kjw0612/awesome-rnn)
@@ -41,6 +51,8 @@
 * [仿宋體字形](https://github.com/micmro/Stylify-Me/blob/master/.fonts/SimSun.ttf)
 * [中文斷詞與文字雲教學](http://120.108.221.55/profchwu/dctai/%E6%95%99%E6%9D%90/%E6%96%B7%E8%A9%9E%E8%88%87%E6%96%87%E5%AD%97%E9%9B%B2/%E6%96%B7%E8%A9%9E%E8%88%87%E6%96%87%E5%AD%97%E9%9B%B2%E6%95%99%E5%AD%B8.pdf)
 ### Book
+* ![AI Book](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/AIbook.jpg)
+    * [Github:](https://github.com/mc6666/DL_Book)
 * [用python進行自然語言處理](https://www.nltk.org/book/)
 * [博客來 -- Natural Language Processing with Python](https://www.books.com.tw/products/F011662715) [, CN PDF](https://drive.google.com/file/d/1fLvukfrhR6fIo4lqftVHLaJDVoB0Skt3/view?usp=sharing)
 ### jieba
