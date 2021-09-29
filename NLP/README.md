@@ -31,7 +31,7 @@
 * [NLP -- RNN & Attentions](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/16_nlp_with_rnns_and_attention.ipynb)
 * [kaggle: bitcoin](https://www.kaggle.com/mczielinski/bitcoin-historical-data/version/16) 
 ##
-### 
+### 深度學習最佳入門邁向AI專題實戰 CH12 範例
 * [Ch12-1 RNN test](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/12_01_RNN_test.ipynb)
 * [Ch12-2 LSTM IMDB](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/12_02_LSTM_IMDB.ipynb)
 * [Ch12-3 LSTM IMDB Text](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/12_03_LSTM_IMDB_Text.ipynb)
