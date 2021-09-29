@@ -29,3 +29,6 @@
 * [Text Classification with CNN and RNN](https://github.com/gaussic/text-classification-cnn-rnn)
 * [Predict stock market prices using RNN](https://github.com/lilianweng/stock-rnn)
 * [chatbot-rnn](https://github.com/pender/chatbot-rnn)
+### Book
+* [用python進行自然語言處理](https://www.nltk.org/book/)
+* [博客來 -- Natural Language Processing with Python](https://www.books.com.tw/products/F011662715)
