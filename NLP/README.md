@@ -15,7 +15,8 @@
 * [CH16 NLP](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/Ch16_NLP.ipynb)
 * [CH17 NLP -- Amazon](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/Ch17_NLP_Amazon.ipynb)
 * [CH18 NLP -- Chinese](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/CH18_NLP_Chinese.ipynb)
-* [中文文字雲](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/WordCloud_%E4%B8%AD%E6%96%87.ipynb)
+* [WordCloud 中文1](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/WordCloud_%E4%B8%AD%E6%96%87.ipynb)
+* [WordCloud 中文2](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/WordCloud_%E4%B8%AD%E6%96%872.ipynb)
 ### RNN LSTM
 * [女神書第六章範例](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/Ch06-RNN-TF1.ipynb)
 * [女神書第七章範例 LSTM -- MNIST](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/07_lstm-TF1.ipynb)
