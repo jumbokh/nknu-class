@@ -11,6 +11,7 @@
 * [11-1 BOW](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/11_01_BOW.ipynb)
 * [11-2 TF-IDF](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/11_02_TFIDF.ipynb)
 * [11-3_字詞前置處理](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/11_03_%E5%AD%97%E8%A9%9E%E5%89%8D%E7%BD%AE%E8%99%95%E7%90%86.ipynb)
+* [11-07 以jieba套件進行中文分詞](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/11_07_%E4%B8%AD%E6%96%87_NLP.ipynb)
 * [CH16 NLP](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/Ch16_NLP.ipynb)
 * [CH17 NLP -- Amazon](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/Ch17_NLP_Amazon.ipynb)
 * [CH18 NLP -- Chinese](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/CH18_NLP_Chinese.ipynb)
