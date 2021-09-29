@@ -31,6 +31,7 @@
 * [Predict stock market prices using RNN](https://github.com/lilianweng/stock-rnn)
 * [chatbot-rnn](https://github.com/pender/chatbot-rnn)
 * [jieba-tw](https://github.com/APCLab/jieba-tw)
+* [仿宋體字形](https://github.com/micmro/Stylify-Me/blob/master/.fonts/SimSun.ttf)
 ### Book
 * [用python進行自然語言處理](https://www.nltk.org/book/)
 * [博客來 -- Natural Language Processing with Python](https://www.books.com.tw/products/F011662715)
