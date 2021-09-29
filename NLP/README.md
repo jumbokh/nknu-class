@@ -10,6 +10,10 @@
     * [dict.txt.big](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/dict.txt.big)
     * [stop.txt](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/stop.text)
     * [news.txt](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/news.txt)
+### Word Cloud
+* [WordCloud CN](https://colab.research.google.com/github/jumbokh/nknu-class/blob/main/NLP/notebooks/wordcloud_cn.ipynb)
+* [WordCloud TW](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/WordCloud_%E4%B8%AD%E6%96%87.ipynb)
+* [WordCloud TW 2](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/WordCloud_%E4%B8%AD%E6%96%87.ipynb)
 ### NLTK
 * [NLTK Book: CH1.1](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/python_NLTK_Ch1_1.ipynb)
 * [11-1 BOW](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/11_01_BOW.ipynb)
