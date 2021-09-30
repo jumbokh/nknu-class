@@ -1,7 +1,7 @@
 ## 準備 Opencv 執行環境
 ### Download & install python (如果已經安裝的略過)
 ### 以系統管理員身分啟動 cmd
-### 確定 位置集硬碟空間
+### 確定 安裝位置及硬碟空間是否足夠
 ### python --version
 #### 至少 python 3.7.x 版本以上
 ### pip install virtualenv
