@@ -35,10 +35,11 @@
 * [NLP -- RNN & Attentions](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/16_nlp_with_rnns_and_attention.ipynb)
 * [kaggle: bitcoin](https://www.kaggle.com/mczielinski/bitcoin-historical-data/version/16) 
 ##
-### 深度學習最佳入門邁向AI專題實戰 CH12 範例
+### 深度學習最佳入門邁向AI專題實戰 CH12 範例 [Treat Book Data](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/BookData_DM2145.ipynb)
 * [Ch12-1 RNN test](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/12_01_RNN_test.ipynb)
 * [Ch12-2 LSTM IMDB](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/12_02_LSTM_IMDB.ipynb)
 * [Ch12-3 LSTM IMDB Text](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/12_03_LSTM_IMDB_Text.ipynb)
+* [Ch12-3a LSTM IMDB Text (with GPU)](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/12_03a_LSTM_IMDB_Text.ipynb)
 * [Ch12-4 LSTM 參數測試](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/12_04_LSTM_%E5%8F%83%E6%95%B8%E6%B8%AC%E8%A9%A6.ipynb)
 * [Ch12-5 Stacked LSTM](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/12_05_Stacked_LSTM.ipynb)
 * [CH12-6 Stock Forecast](https://github.com/jumbokh/nknu-class/blob/main/NLP/notebooks/12_06_Stock_Forecast.ipynb)
