@@ -5,3 +5,4 @@
 * [使用 cuDNN驅動執行+GPU](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/WithDriver.ipynb)
 ### 參考
 * [JFIF 說明](https://cloud.tencent.com/developer/article/1427939)
+* [shap Test](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/Shap_Test.ipynb)
