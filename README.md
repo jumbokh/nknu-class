@@ -3,6 +3,7 @@
 * ![class AI](https://github.com/jumbokh/nknu-class/blob/main/docs/NKNU-class.JPG)
 #### [特徵工程](https://github.com/jumbokh/nknu-class/blob/main/ML/notebooks/05.04-Feature-Engineering.ipynb)
 #### [缺失值](https://github.com/jumbokh/nknu-class/blob/main/notebooks/03.04-Missing-Values.ipynb)
+#### [二元分類 資料不均衡處理](https://medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E7%9F%A5%E8%AD%98%E6%AD%B7%E7%A8%8B/%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%A9%90%E9%A8%99%E5%88%86%E6%9E%90-%E4%B8%8D%E5%B9%B3%E8%A1%A1%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90%E8%88%87%E8%99%95%E7%90%86kernel%E7%BF%BB%E8%AD%AFpart1-7f1b0a645f9a)
 #### [非監督式學習](https://github.com/aapatel09/handson-unsupervised-learning) (http://bit.ly/2Gd4v7e)
 * [KNN](https://github.com/jumbokh/nknu-class/blob/main/ML/KNN.md)
 * [PCA](https://github.com/jumbokh/nknu-class/blob/main/ML/PCA/README.md)
