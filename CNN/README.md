@@ -21,7 +21,19 @@
 * 風格轉換(Style Transfer)
 * 光學文字辨識(OCR)
 ### 第八章 物件偵測 (Object Detection)
-
+* 對圖片滑動視窗並做影像金字塔
+    * [8.01](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/08_01_Sliding_Window_And_Image_Pyramid.ipynb)
+    * [Sliding Windows for Object Detection with Python and OpenCV](https://www.pyimagesearch.com/2015/03/23/sliding-windows-for-object-detection-with-python-and-opencv/)
+    * [py](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/08_01_Sliding_Window.py)
+* HOG Face Detection
+    * [8.02](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/08_02_HOG_Face_Detection.ipynb)
+    * [Non-Maximum Suppression for Object Detection in Python](https://www.pyimagesearch.com/2014/11/17/non-maximum-suppression-object-detection-python/)
+    * [8.2-1 py](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/08_02_HOG-Face-Detection-1.py)
+    * [8.2-2 py](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/08_02_HOG-Face-Detection-2.py)
+* Object Detection
+    * [8.03](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/08_03_Object_Detection.ipynb)
+    * [Turning any CNN image classifier into an object detector with Keras, TensorFlow, and OpenCV](https://www.pyimagesearch.com/2020/06/22/turning-any-cnn-image-classifier-into-an-object-detector-with-keras-tensorflow-and-opencv/)
+    * <img src="https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/before_NMS.JPG" width="100" height="100">
 ### 參考
 * [JFIF 說明](https://cloud.tencent.com/developer/article/1427939)
 * [shap Test](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/Shap_Test.ipynb)
