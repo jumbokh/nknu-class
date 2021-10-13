@@ -13,6 +13,15 @@
 * [Batch Normalization](http://violin-tao.blogspot.com/2018/02/ml-batch-normalization.html)
 * [Covariate Shift](https://ithelp.ithome.com.tw/articles/10241052)
 * [On The Perils of Batch Norm](https://www.alexirpan.com/2017/04/26/perils-batch-norm.html)
+##
+## III 進階的影像應用
+* 物件偵測(Object Detection)
+* 語義分割(Semantic Segmentation)
+* 人臉辨識(Facial Recognition)
+* 風格轉換(Style Transfer)
+* 光學文字辨識(OCR)
+### 第八章 物件偵測 (Object Detection)
+
 ### 參考
 * [JFIF 說明](https://cloud.tencent.com/developer/article/1427939)
 * [shap Test](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/Shap_Test.ipynb)
