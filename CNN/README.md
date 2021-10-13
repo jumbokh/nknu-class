@@ -35,7 +35,7 @@
     * [08.03 py](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/08_03_object_detection.py)
     * [Turning any CNN image classifier into an object detector with Keras, TensorFlow, and OpenCV](https://www.pyimagesearch.com/2020/06/22/turning-any-cnn-image-classifier-into-an-object-detector-with-keras-tensorflow-and-opencv/)
     * <img src="https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/before_NMS.JPG" width="100" height="100">
-    * <img src="https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/before_NMS.JPG" width="100" height="100">
+    * <img src="https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/after_NMS.JPG" width="100" height="100">
 * 8-4 R-CNN 物件偵測 Regions with CNN, Ross B. Girshick, 2014 (Rich feature hierarchies for accurate object detection and semantic segmentation)
 * 架構如下:
     * 1. 讀取要辨識的圖片。
