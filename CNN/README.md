@@ -46,7 +46,7 @@
     * 2. 使用區域推薦(Region Proposal)演算法，找到2000個候選視窗。(Selective Search)
     * 3. 使用CNN萃取特徵。
     * 4. 使用SVM辨識。
-* 8-5 YOLO 演算法
+* 8-5 YOLO 演算法、8-6 YOLO 環境建置
 * YOLO CFG: [yolov3.cfg](https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg)
 ### 參考
 * [JFIF 說明](https://cloud.tencent.com/developer/article/1427939)
