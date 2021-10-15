@@ -37,11 +37,17 @@
     * <img src="https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/before_NMS.JPG" width="100" height="100">
     * <img src="https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/after_NMS.JPG" width="100" height="100">
 * 8-4 R-CNN 物件偵測 Regions with CNN, Ross B. Girshick, 2014 (Rich feature hierarchies for accurate object detection and semantic segmentation)
+    * [Starter: Airplanes Dataset for R-CNN 67f31bc9-1](https://www.kaggle.com/kerneler/starter-airplanes-dataset-for-r-cnn-67f31bc9-1)
+    * [Step-By-Step Implementation of R-CNN from scratch in python](https://github.com/1297rohit/RCNN)
+    * [Intersection over Union (IoU) for object detection](https://www.pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/)
+    * [8.04 R-CNN 偵測空照圖中的飛機(記憶體不足，無法在colab執行)](https://github.com/jumbokh/nknu-class/blob/main/CNN/RCNN/08_04_RCNN.ipynb)
 * 架構如下:
     * 1. 讀取要辨識的圖片。
     * 2. 使用區域推薦(Region Proposal)演算法，找到2000個候選視窗。(Selective Search)
     * 3. 使用CNN萃取特徵。
     * 4. 使用SVM辨識。
+* 8-5 YOLO 演算法
+* YOLO CFG: [yolov3.cfg](https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg)
 ### 參考
 * [JFIF 說明](https://cloud.tencent.com/developer/article/1427939)
 * [shap Test](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/Shap_Test.ipynb)
