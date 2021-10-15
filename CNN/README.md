@@ -53,7 +53,9 @@
     * YOLO CFG: [yolov3.cfg](https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg)
 * 8-7 以 Tensorflow 實作 YOLO 模型
     * [將YOLO權重檔轉為Keras格式檔(.h5)](https://github.com/jumbokh/nknu-class/blob/main/CNN/YOLO/08_05_YOLO_Keras_Conversion.ipynb)
-
+    * [測試 TensorFlow/Keras YOLO格式檔](https://github.com/jumbokh/nknu-class/blob/main/CNN/YOLO/08_06_YOLO_Keras_Test.ipynb)
+    * [測試 TensorFlow YOLO4 格式檔](https://github.com/jumbokh/nknu-class/blob/main/CNN/YOLO/08_07__Tensorflow_Yolov4_Test.ipynb)
+        * <img src="https://github.com/jumbokh/nknu-class/blob/main/CNN/YOLO/kite-pre.png" width="100" height="100">
 ### 參考
 * [JFIF 說明](https://cloud.tencent.com/developer/article/1427939)
 * [shap Test](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/Shap_Test.ipynb)
