@@ -46,8 +46,13 @@
     * 2. 使用區域推薦(Region Proposal)演算法，找到2000個候選視窗。(Selective Search)
     * 3. 使用CNN萃取特徵。
     * 4. 使用SVM辨識。
+* [Getting Started with Detectron2](https://detectron2.readthedocs.io/en/latest/tutorials/getting_started.html)
+    * [detectron2 Tutorial](https://github.com/jumbokh/nknu-class/blob/main/CNN/Detectron2/Detectron2_Tutorial.ipynb)
 * 8-5 YOLO 演算法、8-6 YOLO 環境建置
+* 8-7 以 Tensorflow 實作 YOLO 模型
+    * [將YOLO權重檔轉為Keras格式檔(.h5)](https://github.com/jumbokh/nknu-class/blob/main/CNN/YOLO/08_05_YOLO_Keras_Conversion.ipynb)
 * YOLO CFG: [yolov3.cfg](https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg)
+
 ### 參考
 * [JFIF 說明](https://cloud.tencent.com/developer/article/1427939)
 * [shap Test](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/Shap_Test.ipynb)
