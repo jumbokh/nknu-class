@@ -68,5 +68,5 @@
 * [Rpi CUDA Toolkit](https://mirror.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/non-free/n/nvidia-cuda-toolkit/)
 * [超詳細整理Detectron2目標檢測原始碼在Win10下的環境配置](https://www.uj5u.com/qita/18766.html)
 * [如何用 coco 數據集訓練 Detectron2 模型？](https://www.hksilicon.com/articles/1832996)
-* [利用detectron2快速使用faster RCNN](https://medium.com/mess-up/%E5%88%A9%E7%94%A8detectron2%E5%BF%AB%E9%80%9F%E4%BD%BF%E7%94%A8faster-rcnn-a68e58c2ca21)
+* [利用detectron2快速使用faster RCNN(PCB)](https://medium.com/mess-up/%E5%88%A9%E7%94%A8detectron2%E5%BF%AB%E9%80%9F%E4%BD%BF%E7%94%A8faster-rcnn-a68e58c2ca21)
 * [Detectron2 自定義數據集教程，將水果堅果數據集註冊到 Detectron2](https://github.com/facebookresearch/detectron2/blob/main/docs/tutorials/datasets.md)
