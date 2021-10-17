@@ -60,3 +60,6 @@
 * [JFIF 說明](https://cloud.tencent.com/developer/article/1427939)
 * [shap Test](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/Shap_Test.ipynb)
 * [AI MONGO](https://drive.google.com/drive/folders/1Yg2qKv9A4CmZhVfyjQZZJdPHGK_yQ9Vv?usp=sharing)
+* [Rpi 3 install pytorch](https://discuss.pytorch.org/t/installing-pytorch-on-raspberry-pi-3/25215/13)
+* [Tensorflow 2.3 for Rpi](https://www.796t.com/article.php?id=77669)
+* [torch+cuda+torchvision](https://www.codegrepper.com/code-examples/shell/pytorch+1.9.0+cuda+version)
