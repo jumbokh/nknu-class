@@ -63,3 +63,4 @@
 * [Rpi 3 install pytorch](https://discuss.pytorch.org/t/installing-pytorch-on-raspberry-pi-3/25215/13)
 * [Tensorflow 2.3 for Rpi](https://www.796t.com/article.php?id=77669)
 * [torch+cuda+torchvision](https://www.codegrepper.com/code-examples/shell/pytorch+1.9.0+cuda+version)
+* [Installing the CUDA Toolkit](https://www.pyimagesearch.com/2016/07/04/how-to-install-cuda-toolkit-and-cudnn-for-deep-learning/)
