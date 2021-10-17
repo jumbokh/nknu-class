@@ -48,6 +48,7 @@
     * 4. 使用SVM辨識。
 * [Getting Started with Detectron2](https://detectron2.readthedocs.io/en/latest/tutorials/getting_started.html)
     * [detectron2 Tutorial](https://github.com/jumbokh/nknu-class/blob/main/CNN/Detectron2/Detectron2_Tutorial.ipynb)
+    * [How to train Detectron2 with Custom COCO Datasets](https://github.com/jumbokh/nknu-class/blob/main/CNN/Detectron2/Train_COCO_Detectron2.ipynb)
 * 8-5 YOLO 演算法、8-6 YOLO 環境建置
     * [YOLO 官網](https://pjreddie.com/)
     * YOLO CFG: [yolov3.cfg](https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg)
