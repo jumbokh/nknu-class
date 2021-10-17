@@ -53,6 +53,7 @@
     * [YOLO 官網](https://pjreddie.com/)
     * YOLO CFG: [yolov3.cfg](https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg)
     * [Raspberry Pi學習筆記（二十七）：在Pi上執行YOLOv3](https://yanwei-liu.medium.com/raspberry-pi%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-%E4%BA%8C%E5%8D%81%E4%B8%83-%E5%9C%A8pi%E4%B8%8A%E5%9F%B7%E8%A1%8Cyolov3-9cf124d5d582)
+    * [YOLOV4 github](https://github.com/kiyoshiiriemon/yolov4_darknet)
 * 8-7 以 Tensorflow 實作 YOLO 模型
     * [將YOLO權重檔轉為Keras格式檔(.h5)](https://github.com/jumbokh/nknu-class/blob/main/CNN/YOLO/08_05_YOLO_Keras_Conversion.ipynb)
     * [測試 TensorFlow/Keras YOLO格式檔](https://github.com/jumbokh/nknu-class/blob/main/CNN/YOLO/08_06_YOLO_Keras_Test.ipynb)
