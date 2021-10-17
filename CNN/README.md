@@ -64,4 +64,5 @@
 * [Tensorflow 2.3 for Rpi](https://www.796t.com/article.php?id=77669)
 * [torch+cuda+torchvision](https://www.codegrepper.com/code-examples/shell/pytorch+1.9.0+cuda+version)
 * [Installing the CUDA Toolkit](https://www.pyimagesearch.com/2016/07/04/how-to-install-cuda-toolkit-and-cudnn-for-deep-learning/)
+* [Rpi CUDA Toolkit](https://mirror.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/non-free/n/nvidia-cuda-toolkit/)
 * [超詳細整理Detectron2目標檢測原始碼在Win10下的環境配置](https://www.uj5u.com/qita/18766.html)
