@@ -75,3 +75,4 @@
 * [Detectron2 自定義數據集教程，將水果堅果數據集註冊到 Detectron2](https://github.com/facebookresearch/detectron2/blob/main/docs/tutorials/datasets.md)
 * [DeepFakes in 5 minutes](https://pub.towardsai.net/deepfakes-in-5-minutes-155c13d48fa3)
 * [Youtube:You Won’t Believe What Obama Says In This Video!](https://www.youtube.com/watch?v=cQ54GDm1eL0)
+* [github:SimSwap](https://github.com/neuralchen/SimSwap)
