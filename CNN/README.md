@@ -59,6 +59,7 @@
     * [測試 TensorFlow/Keras YOLO格式檔](https://github.com/jumbokh/nknu-class/blob/main/CNN/YOLO/08_06_YOLO_Keras_Test.ipynb)
     * [測試 TensorFlow YOLO4 格式檔](https://github.com/jumbokh/nknu-class/blob/main/CNN/YOLO/08_07__Tensorflow_Yolov4_Test.ipynb)
         * <img src="https://github.com/jumbokh/nknu-class/blob/main/CNN/YOLO/kite-pre.png" width="100" height="100">
+* [SimSwap](https://github.com/jumbokh/nknu-class/blob/main/CNN/DeepFake/SimSwap%20colab.ipynb)
 ### 參考
 * [JFIF 說明](https://cloud.tencent.com/developer/article/1427939)
 * [shap Test](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/Shap_Test.ipynb)
