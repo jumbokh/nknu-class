@@ -62,6 +62,7 @@
 ### 第九章 進階影像應用
 * [9-1 AutoEncoder 與去除雜訊](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/09_01_MNIST_Autoencoder.ipynb)
 * [9-2 以MNIST資料集訓練VAE模型，並生成影像](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/09_02_MNIST_VAE.ipynb)
+* [9-3? 使用U-Net進行語意分割](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/09_03_Image_segmentation.ipynb)
 * [9-4 使用Mask R-CNN產生遮罩](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/09_04_Mask_R_CNN_Test.ipynb)
 * [SimSwap](https://github.com/jumbokh/nknu-class/blob/main/CNN/DeepFake/SimSwap%20colab.ipynb)
 ### 參考
