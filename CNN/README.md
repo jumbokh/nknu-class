@@ -60,7 +60,7 @@
     * [測試 TensorFlow YOLO4 格式檔](https://github.com/jumbokh/nknu-class/blob/main/CNN/YOLO/08_07__Tensorflow_Yolov4_Test.ipynb)
         * <img src="https://github.com/jumbokh/nknu-class/blob/main/CNN/YOLO/kite-pre.png" width="100" height="100">
 ### 第九章 進階影像應用
-* [以MNIST資料集訓練VAE模型，並生成影像](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/09_02_MNIST_VAE.ipynb)
+* [9_2 以MNIST資料集訓練VAE模型，並生成影像](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/09_02_MNIST_VAE.ipynb)
 * [SimSwap](https://github.com/jumbokh/nknu-class/blob/main/CNN/DeepFake/SimSwap%20colab.ipynb)
 ### 參考
 * [JFIF 說明](https://cloud.tencent.com/developer/article/1427939)
