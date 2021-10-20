@@ -76,3 +76,4 @@ Topuc 4. 氣象局開放資料擷取
     * [颱風警報](https://rdc28.cwb.gov.tw/)
     * [論文取得資料](https://drive.google.com/open?id=1OgMsd98AuFppckQyvCgtgeW90OKHKUK4)
     * [氣象局開放資料擷取](https://opendata.cwb.gov.tw/dataset/climate?page=1)
+* [Azure service](https://azure.microsoft.com/zh-tw/services/cognitive-services/computer-vision/)
