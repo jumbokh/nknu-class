@@ -5,3 +5,5 @@
 * [overview](https://docs.microsoft.com/en-us/bing/search-apis/bing-image-search/overview)
 * [create dataset](https://github.com/nikitaa30/Face-Recognition)
 * [face-recognition demo](https://deepnote.com/project/Face-Recognition-Demo-uaF60UQASa6zf0fFhQGiMw/%2Fexample.ipynb/#00003-7815290b-9024-4316-bc09-b66254e39bee)
+#### Face recognition
+* [Face recognition with OpenCV, Python, and deep learning](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/)
