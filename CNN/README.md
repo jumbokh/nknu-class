@@ -65,6 +65,7 @@
 * [9-3? 使用U-Net進行語意分割](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/09_03_Image_segmentation.ipynb)
 * [9-4 使用Mask R-CNN產生遮罩](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/09_04_Mask_R_CNN_Test.ipynb)
 * [9-5 風格轉換(Neural Style Transfer)](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/09_05_Neural_Style_Transfer_Loss.ipynb)
+* [風格轉換(Neural Style Transfer)](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/09_05_Neural_Style_Transfer.ipynb)
 * [SimSwap](https://github.com/jumbokh/nknu-class/blob/main/CNN/DeepFake/SimSwap%20colab.ipynb)
 ### 參考
 * [JFIF 說明](https://cloud.tencent.com/developer/article/1427939)
