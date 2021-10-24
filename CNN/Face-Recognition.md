@@ -4,9 +4,6 @@
 * [Face Library v1.1.0 release makes face detection more real-time on CPU](https://a-akram-9821.medium.com/face-library-v1-1-0-release-makes-face-detection-more-real-time-on-cpu-5b9d75f3d747)
 * [HAAR](https://github.com/jumbokh/cv_face/blob/master/opencv/day3/README.md)
 * [Face-Recognition](https://github.com/nikitaa30/Face-Recognition)
-### Bing Search [share](https://drive.google.com/drive/folders/1aGsY9Sg7l_UuCZ_5s6pkJK0N-Fc-rvRc?usp=sharing)
-* [快速入門：使用 Bing 影像搜尋用戶端程式庫](https://docs.microsoft.com/zh-tw/azure/cognitive-services/bing-image-search/quickstarts/client-libraries?tabs=visualstudio&pivots=programming-language-csharp)
-* [python sample code](https://github.com/Azure-Samples/cognitive-services-python-sdk-samples/blob/master/samples/search/image-search-quickstart.py)
 * [09_06_臉部偵測_opencv](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/09_06_%E8%87%89%E9%83%A8%E5%81%B5%E6%B8%AC_opencv.ipynb)
 * [09 07 MTCNN 臉部偵測(Face Detection)](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/09_07_%E8%87%89%E9%83%A8%E5%81%B5%E6%B8%AC_mtcnn.ipynb)
 * [09 08 使用Face-Recognition套件進行臉部偵測](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/09_08_%E8%87%89%E9%83%A8%E5%81%B5%E6%B8%AC_Face_Recognition.ipynb)
@@ -18,6 +15,9 @@
 * [09 14 光學文字辨識(Optical Character Recognition, OCR)](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/09_14_OCR.ipynb)
 * [09 15 車牌辨識(Automatic Number Plate Recognition, ANPR)](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/09_15_%E8%BB%8A%E7%89%8C%E8%BE%A8%E8%AD%98.ipynb)
     * [License Plate Recognition using Raspberry Pi and OpenCV](https://circuitdigest.com/microcontroller-projects/license-plate-recognition-using-raspberry-pi-and-opencv)
+### Bing Search [share](https://drive.google.com/drive/folders/1aGsY9Sg7l_UuCZ_5s6pkJK0N-Fc-rvRc?usp=sharing)
+* [快速入門：使用 Bing 影像搜尋用戶端程式庫](https://docs.microsoft.com/zh-tw/azure/cognitive-services/bing-image-search/quickstarts/client-libraries?tabs=visualstudio&pivots=programming-language-csharp)
+* [python sample code](https://github.com/Azure-Samples/cognitive-services-python-sdk-samples/blob/master/samples/search/image-search-quickstart.py)
 ##
 ### 參考
 * [Saving seaweed with machine learning](https://techxplore.com/news/2021-10-seaweed-machine.html?fbclid=IwAR2JixRORAWm18MEUBNTUnIKp2oOBdb8XmNgVH7pHZhhAUS4Wgf-lgLltFI)
