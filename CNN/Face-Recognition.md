@@ -7,7 +7,17 @@
 ### Bing Search [share](https://drive.google.com/drive/folders/1aGsY9Sg7l_UuCZ_5s6pkJK0N-Fc-rvRc?usp=sharing)
 * [快速入門：使用 Bing 影像搜尋用戶端程式庫](https://docs.microsoft.com/zh-tw/azure/cognitive-services/bing-image-search/quickstarts/client-libraries?tabs=visualstudio&pivots=programming-language-csharp)
 * [python sample code](https://github.com/Azure-Samples/cognitive-services-python-sdk-samples/blob/master/samples/search/image-search-quickstart.py)
-* []()
+* [09_06_臉部偵測_opencv](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/09_06_%E8%87%89%E9%83%A8%E5%81%B5%E6%B8%AC_opencv.ipynb)
+* [09 07 MTCNN 臉部偵測(Face Detection)](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/09_07_%E8%87%89%E9%83%A8%E5%81%B5%E6%B8%AC_mtcnn.ipynb)
+* [09 08 使用Face-Recognition套件進行臉部偵測](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/09_08_%E8%87%89%E9%83%A8%E5%81%B5%E6%B8%AC_Face_Recognition.ipynb)
+* [09 09 使用Face-Recognition套件進行臉部追蹤](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/09_09_%E8%87%89%E9%83%A8%E8%BF%BD%E8%B9%A4_Face_Recognition.ipynb)
+* [09 10 使用WebCam套件進行臉部追蹤](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/09_10_%E8%87%89%E9%83%A8%E8%BF%BD%E8%B9%A4_webcam.ipynb)
+* [09 11 臉部特徵點偵測](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/09_11_%E8%87%89%E9%83%A8%E7%89%B9%E5%BE%B5%E9%BB%9E%E5%81%B5%E6%B8%AC.ipynb)
+* [09 12 使用OpenCV套件進行臉部特徵點偵測](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/09_12_%E8%87%89%E9%83%A8%E7%89%B9%E5%BE%B5%E9%BB%9E%E5%81%B5%E6%B8%AC_OpenCV.ipynb)
+* [09 13 臉部驗證(使用Face-Recognition套件)](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/09_13_%E8%87%89%E9%83%A8%E9%A9%97%E8%AD%89.ipynb)
+* [09 14 光學文字辨識(Optical Character Recognition, OCR)](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/09_14_OCR.ipynb)
+* [09 15 車牌辨識(Automatic Number Plate Recognition, ANPR)](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/09_15_%E8%BB%8A%E7%89%8C%E8%BE%A8%E8%AD%98.ipynb)
+    * [License Plate Recognition using Raspberry Pi and OpenCV](https://circuitdigest.com/microcontroller-projects/license-plate-recognition-using-raspberry-pi-and-opencv)
 ##
 ### 參考
 * [Saving seaweed with machine learning](https://techxplore.com/news/2021-10-seaweed-machine.html?fbclid=IwAR2JixRORAWm18MEUBNTUnIKp2oOBdb8XmNgVH7pHZhhAUS4Wgf-lgLltFI)
