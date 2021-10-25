@@ -1,5 +1,8 @@
 ## Face Recognition
 * [Machine Learning is Fun! Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
+    * [Step 1](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/step-1_find-faces.py)
+    * [Step 2a](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/step-2a_finding-face-landmarks.py)
+    * [Step 2b](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/step-2b_projecting-faces.py)
 * [Real-Time face detection and recognition on CPU using Face Library](https://a-akram-9821.medium.com/real-time-face-detection-and-recognition-using-face-library-876ea99e8fea)
 * [Face Library v1.1.0 release makes face detection more real-time on CPU](https://a-akram-9821.medium.com/face-library-v1-1-0-release-makes-face-detection-more-real-time-on-cpu-5b9d75f3d747)
 * [HAAR](https://github.com/jumbokh/cv_face/blob/master/opencv/day3/README.md)
