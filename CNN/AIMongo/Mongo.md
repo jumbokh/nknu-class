@@ -14,3 +14,7 @@
 * [Inspect Model: Mask R-CNN](https://github.com/jumbokh/nknu-class/blob/main/CNN/AIMongo/inspect_model.ipynb)
 * [Inspect Weights of a Trained Model: Mask R-CNN](https://github.com/jumbokh/nknu-class/blob/main/CNN/AIMongo/inspect_weights.ipynb)
 * [Mask R-CNN Demo](https://github.com/jumbokh/nknu-class/blob/main/CNN/AIMongo/demo.ipynb)
+### Mask R-CNN
+* [2017 Top10 CV: 目前最好的object detection模型 Mask R-CNN](https://dosudodl.wordpress.com/2018/02/19/2017-top10-cv-%E7%9B%AE%E5%89%8D%E6%9C%80%E5%A5%BD%E7%9A%84object-detection%E6%A8%A1%E5%9E%8B-mask-r-cnn/)
+* [Instance Segmentation入门总结](https://www.cnblogs.com/Xiaoyan-Li/p/10156463.html)
+* [paper: A Survey on Instance Segmentation: State of the art](https://arxiv.org/abs/2007.00047)
