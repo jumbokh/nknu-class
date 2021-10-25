@@ -85,3 +85,4 @@
 * [Introduction to Neural Style Transfer with TensorFlow](https://towardsdatascience.com/introduction-to-neural-style-transfer-with-tensorflow-99915a5d624a)
 * [github:SimSwap](https://github.com/neuralchen/SimSwap)
 * [Family fun with deepfakes. Or how I got my wife onto the Tonight Show](https://towardsdatascience.com/family-fun-with-deepfakes-or-how-i-got-my-wife-onto-the-tonight-show-a4454775c011)
+* [Deepfakes: Face synthesis with GANs and Autoencoders](https://theaisummer.com/deepfakes/?fbclid=IwAR1dzQ6N7vnCntFuJeqpTk59Ynvhr3mtOaxeM7ZUTai-_CQgyreOgpkVOZo)
