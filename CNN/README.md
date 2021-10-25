@@ -84,3 +84,4 @@
 * [Youtube:You Won’t Believe What Obama Says In This Video!](https://www.youtube.com/watch?v=cQ54GDm1eL0)
 * [Introduction to Neural Style Transfer with TensorFlow](https://towardsdatascience.com/introduction-to-neural-style-transfer-with-tensorflow-99915a5d624a)
 * [github:SimSwap](https://github.com/neuralchen/SimSwap)
+* [Family fun with deepfakes. Or how I got my wife onto the Tonight Show](https://towardsdatascience.com/family-fun-with-deepfakes-or-how-i-got-my-wife-onto-the-tonight-show-a4454775c011)
