@@ -10,3 +10,7 @@
 ### Sandbox
 * [test src](https://drive.google.com/drive/folders/1XqBasMKiD3IeeyX9ARG7e41ujir5-GcS?usp=sharing)
 * [直方圖均衡化](https://zh.wikipedia.org/wiki/%E7%9B%B4%E6%96%B9%E5%9B%BE%E5%9D%87%E8%A1%A1%E5%8C%96)
+* [Inspect Data: Mask R-CNN](https://github.com/jumbokh/nknu-class/blob/main/CNN/AIMongo/inspect_data.ipynb)
+* [Inspect Model: Mask R-CNN](https://github.com/jumbokh/nknu-class/blob/main/CNN/AIMongo/inspect_model.ipynb)
+* [Inspect Weights of a Trained Model: Mask R-CNN](https://github.com/jumbokh/nknu-class/blob/main/CNN/AIMongo/inspect_weights.ipynb)
+* [Mask R-CNN Demo](https://github.com/jumbokh/nknu-class/blob/main/CNN/AIMongo/demo.ipynb)
