@@ -29,6 +29,6 @@
 * [Saving seaweed with machine learning](https://techxplore.com/news/2021-10-seaweed-machine.html?fbclid=IwAR2JixRORAWm18MEUBNTUnIKp2oOBdb8XmNgVH7pHZhhAUS4Wgf-lgLltFI)
 * [英國 A.I. 交通監控鏡頭出錯，將馬路上的女人當成汽車還開了罰單](https://photoblog.hk/281951/?fbclid=IwAR1jjkxArK2v03dyxrVulojEiB2f5oiJ8kIkv6ThDnZ2yXDKWs0URWU_Cwg)
 * Install openface:
-    * [Install openface modul](https://cmusatyalab.github.io/openface/setup/)
+    * [Install openface module](https://cmusatyalab.github.io/openface/setup/)
     * [Install openSSL](https://gist.github.com/estshorter/c747c88cbcc53fc7318a5cf788e8fc9b)
     * [Step 4](https://gist.github.com/ageitgey/ddbae3b209b6344a458fa41a3cf75719)
