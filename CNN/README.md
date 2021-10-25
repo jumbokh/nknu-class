@@ -16,8 +16,8 @@
 ##
 ## III 進階的影像應用
 * 物件偵測(Object Detection)
-* 語義分割(Semantic Segmentation)
-* 人臉辨識(Facial Recognition)
+* [語義分割(Semantic Segmentation)](https://github.com/jumbokh/nknu-class/blob/main/CNN/AIMongo/Mongo.md)
+* [人臉辨識(Facial Recognition)](https://github.com/jumbokh/nknu-class/blob/main/CNN/Face-Recognition.md)
 * 風格轉換(Style Transfer)
 * 光學文字辨識(OCR)
 ### 第八章 物件偵測 (Object Detection)
