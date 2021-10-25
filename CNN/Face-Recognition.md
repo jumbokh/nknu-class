@@ -3,7 +3,6 @@
 * [Real-Time face detection and recognition on CPU using Face Library](https://a-akram-9821.medium.com/real-time-face-detection-and-recognition-using-face-library-876ea99e8fea)
 * [Face Library v1.1.0 release makes face detection more real-time on CPU](https://a-akram-9821.medium.com/face-library-v1-1-0-release-makes-face-detection-more-real-time-on-cpu-5b9d75f3d747)
 * [HAAR](https://github.com/jumbokh/cv_face/blob/master/opencv/day3/README.md)
-* [Face-Recognition](https://github.com/nikitaa30/Face-Recognition)
 * [09_06_臉部偵測_opencv](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/09_06_%E8%87%89%E9%83%A8%E5%81%B5%E6%B8%AC_opencv.ipynb)
 * [09 07 MTCNN 臉部偵測(Face Detection)](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/09_07_%E8%87%89%E9%83%A8%E5%81%B5%E6%B8%AC_mtcnn.ipynb)
 * [09 08 使用Face-Recognition套件進行臉部偵測](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/09_08_%E8%87%89%E9%83%A8%E5%81%B5%E6%B8%AC_Face_Recognition.ipynb)
