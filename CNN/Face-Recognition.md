@@ -18,6 +18,8 @@
 ### Bing Search [share](https://drive.google.com/drive/folders/1aGsY9Sg7l_UuCZ_5s6pkJK0N-Fc-rvRc?usp=sharing)
 * [快速入門：使用 Bing 影像搜尋用戶端程式庫](https://docs.microsoft.com/zh-tw/azure/cognitive-services/bing-image-search/quickstarts/client-libraries?tabs=visualstudio&pivots=programming-language-csharp)
 * [python sample code](https://github.com/Azure-Samples/cognitive-services-python-sdk-samples/blob/master/samples/search/image-search-quickstart.py)
+* [Face recognition with OpenCV, Python, and deep learning](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/)
+* [github: Search/Create Image Dataset Code](https://github.com/nikitaa30/Face-Recognition)
 ##
 ### 參考
 * [Saving seaweed with machine learning](https://techxplore.com/news/2021-10-seaweed-machine.html?fbclid=IwAR2JixRORAWm18MEUBNTUnIKp2oOBdb8XmNgVH7pHZhhAUS4Wgf-lgLltFI)
