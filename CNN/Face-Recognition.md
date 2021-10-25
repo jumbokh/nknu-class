@@ -1,4 +1,5 @@
-## Face Recognition [Face_Recognition 文件](https://face-recognition.readthedocs.io/en/latest/face_recognition.html) [ageitgey/face_recognition(CN)](https://github.com/ageitgey/face_recognition/blob/master/README_Simplified_Chinese.md)
+## Face Recognition [Face_Recognition 文件](https://face-recognition.readthedocs.io/en/latest/face_recognition.html) 
+#### [Github: ageitgey/face_recognition(CN)](https://github.com/ageitgey/face_recognition/blob/master/README_Simplified_Chinese.md)
 * [Machine Learning is Fun! Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
     * [Step 1](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/step-1_find-faces.py)
     * [Step 2a](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/step-2a_finding-face-landmarks.py)
