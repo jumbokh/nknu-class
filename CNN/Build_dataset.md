@@ -7,8 +7,13 @@
 * **網路搜尋影像檔**
     * 建立 Azure image Service [快速入門：使用 Bing 影像搜尋 REST API 和 Python 來搜尋影像](https://docs.microsoft.com/zh-tw/azure/cognitive-services/bing-image-search/quickstarts/python)
     * 取得: key, end point
-         * python bing_search.py --query "吳宗憲" --output dataset/Jackie_Wu
-         * python bing_search.py --query "林俊傑" --output dataset/JJ_Lin
+    * End point: end point:
+https://api.bing.microsoft.com/
+    * 設定環境變數
+         * set BING_SEARCH_V7_SUBSCRIPTION_KEY=your-key
+         * set BING_SEARCH_V7_ENDPOINT=https://api.bing.microsoft.com/
+    * python bing_search.py --query "吳宗憲" --output dataset/Jackie_Wu
+    * python bing_search.py --query "林俊傑" --output dataset/JJ_Lin
     * 檢視影像檔, 刪除太多人或非人像、本人等
 * **建立特徵檔**
     * python encode_faces.py --dataset dataset --encodings encodings.pickle
