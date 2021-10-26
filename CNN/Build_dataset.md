@@ -9,7 +9,7 @@
     * 取得: key, end point
          * python bing_search.py --query "吳宗憲" --output dataset/Jackie_Wu
          * python bing_search.py --query "林俊傑" --output dataset/JJ_Lin
-    * 檢視影像檔, 刪除太堆人或非人像、本人等
+    * 檢視影像檔, 刪除太多人或非人像、本人等
 * **建立特徵檔**
     * python encode_faces.py --dataset dataset --encodings encodings.pickle
 * **測試**
