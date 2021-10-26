@@ -32,3 +32,4 @@
     * [Install openface module](https://cmusatyalab.github.io/openface/setup/)
     * [Install openSSL](https://gist.github.com/estshorter/c747c88cbcc53fc7318a5cf788e8fc9b)
     * [Step 4](https://gist.github.com/ageitgey/ddbae3b209b6344a458fa41a3cf75719)
+* [shape_predictor_68_face_landmarks.dat](https://github.com/tzutalin/dlib-android/blob/master/data/shape_predictor_68_face_landmarks.dat)
