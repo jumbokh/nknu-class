@@ -8,3 +8,6 @@
     * [main.py](https://github.com/coding-maniacs/over-under-sampling/blob/master/src/main.py)
 * [Topic 2: machine_learning_parameter_tuning](https://github.com/jumbokh/nknu-class/blob/main/notebook/Topic_2_ML_params_tuning.ipynb)
     * [Data:machine_learning_parameter_tuning](https://drive.google.com/file/d/1IYlUpN7fiBV85wjgeuLi4w78ET4X0h-M/view?usp=sharing)
+* [Topic 3 SMOTE explained](https://rikunert.com/SMOTE_explained)
+   * [SMOTE for Imbalanced Classification with Python](https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/)
+       * [Notebook](https://github.com/jumbokh/nknu-class/blob/main/notebook/Topic3_SMOTE.ipynb)
