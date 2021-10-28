@@ -11,3 +11,5 @@
 * [Topic 3 SMOTE explained](https://rikunert.com/SMOTE_explained)
    * [SMOTE for Imbalanced Classification with Python](https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/)
        * [Notebook](https://github.com/jumbokh/nknu-class/blob/main/notebook/Topic3_SMOTE.ipynb)
+   * [DEALING WITH IMBALANCED DATA: UNDERSAMPLING, OVERSAMPLING AND PROPER CROSS-VALIDATION](https://www.marcoaltini.com/blog/dealing-with-imbalanced-data-undersampling-oversampling-and-proper-cross-validation)
+       [github](https://github.com/marcoalt/Physionet-EHG-imbalanced-data)
