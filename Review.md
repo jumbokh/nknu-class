@@ -5,3 +5,4 @@
 * [kaggle:Keras CNN Dog or Cat Classification](https://github.com/jumbokh/nknu-class/blob/main/notebook/keras-cnn-dog-or-cat-classification.ipynb)
 * [5.2 - Using convnets with small datasets](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/5.2-using-convnets-with-small-datasets.ipynb)
 * [5.3 Using a pre-trained convnet](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/5.3-using-a-pretrained-convnet.ipynb)
+* [5.4 visualizing-what-convnets-learn](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/5.4-visualizing-what-convnets-learn.ipynb)
