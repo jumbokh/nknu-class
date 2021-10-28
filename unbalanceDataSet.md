@@ -6,5 +6,5 @@
 * [Youtube: Machine Learning - Over-& Undersampling - Python/ Scikit/ Scikit-Imblearn](https://www.youtube.com/watch?v=DQC_YE3I5ig&t=794s)
 * [Github: Tutorial about Over-and Undersampling in python](https://github.com/coding-maniacs/over-under-sampling)
     * [main.py](https://github.com/coding-maniacs/over-under-sampling/blob/master/src/main.py)
-* [Topic 2: machine_learning_parameter_tuning]()
+* [Topic 2: machine_learning_parameter_tuning](https://github.com/jumbokh/nknu-class/blob/main/notebook/Topic_2_ML_params_tuning.ipynb)
     * [Data:machine_learning_parameter_tuning](https://drive.google.com/file/d/1IYlUpN7fiBV85wjgeuLi4w78ET4X0h-M/view?usp=sharing)
