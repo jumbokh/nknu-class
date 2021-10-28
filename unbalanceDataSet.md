@@ -1,0 +1,10 @@
+## [Kaggle: Credit Fraud || Dealing with Imbalanced Datasets](https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets)
+* [Notebook](https://github.com/jumbokh/nknu-class/blob/main/notebook/credit-fraud-dealing-with-imbalanced-datasets%20(1).ipynb)
+* [data](https://drive.google.com/file/d/1289q9MP13C2FOgqU1fXGCtP3_v3GrW0J/view?usp=sharing)
+## 不平衡資料分析與處理
+* [Topic 1 離群值處理](https://github.com/jumbokh/nknu-class/blob/main/notebook/Topic1_Remove_Outliers.ipynb)
+* [Youtube: Machine Learning - Over-& Undersampling - Python/ Scikit/ Scikit-Imblearn](https://www.youtube.com/watch?v=DQC_YE3I5ig&t=794s)
+* [Github: Tutorial about Over-and Undersampling in python](https://github.com/coding-maniacs/over-under-sampling)
+    * [main.py](https://github.com/coding-maniacs/over-under-sampling/blob/master/src/main.py)
+* [Topic 2: machine_learning_parameter_tuning]()
+    * [Data:machine_learning_parameter_tuning](https://drive.google.com/file/d/1IYlUpN7fiBV85wjgeuLi4w78ET4X0h-M/view?usp=sharing)
