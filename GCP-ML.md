@@ -15,3 +15,8 @@ few minutes)? (y/N)?  y
 
 Enabling service [compute.googleapis.com] on project [41275790770]...
 </pre>
+* [主機佈署](https://robarter.pixnet.net/blog/post/223284367-%5Bgcp%5Dgoogle%E9%9B%B2%E7%AB%AF%E6%9E%B6%E7%AB%99%282.1%29---%E9%81%B8%E6%93%87%E5%90%88%E9%81%A9%E7%9A%84%E9%83%A8%E5%B1%AC%E4%BD%8D%E7%BD%AE)
+<pre>
+# 設定 region & timezone
+gcloud compute project-info add-metadata --metadata google-compute-default-region=asia-east1,google-compute-default-zone=asia-east1
+</pre
