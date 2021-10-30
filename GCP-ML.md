@@ -20,3 +20,13 @@ Enabling service [compute.googleapis.com] on project [41275790770]...
 # 設定 region & timezone
 gcloud compute project-info add-metadata --metadata google-compute-default-region=asia-east1,google-compute-default-zone=asia-east1
 </pre
+### [使用 Google Storage](https://cloud.google.com/storage/docs/quickstart-gsutil?hl=zh-tw)
+<pre>
+# Create bucket
+gsutil mb -b on -l asia-east1 gs://jumbo-gcloud-bucket/
+gsutil ls gs://jumbo-gcloud-bucket/
+gsutil cp Desktop/kitten.png gs://jumbo-gcloud-bucket/
+## setting for rpi
+## https://rclone.org/drive/#making-your-own-client-id
+</pre>
+### [Cloud Vision API](https://github.com/jumbokh/gcp_class/tree/master/VISION)
