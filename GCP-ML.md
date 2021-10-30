@@ -1,4 +1,5 @@
 ## 使用Google Cloud的機器學習服務
+### [【懶人包】Google Cloud 基礎教學資源彙集](https://ikala.cloud/google-cloud-products-quick-start/)
 ### [開始使用 Google Cloud](https://cloud.google.com/docs?authuser=1)
 * [註冊帳號](https://cloud.google.com/)
 * [Cloud SDK](https://cloud.google.com/sdk/?&_ga=2.46617319.-1772323265.1635597182#download)
