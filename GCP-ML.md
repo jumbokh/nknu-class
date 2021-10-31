@@ -19,9 +19,8 @@ Enabling service [compute.googleapis.com] on project [41275790770]...
 <pre>
 # 設定 region & timezone
 gcloud compute project-info add-metadata --metadata google-compute-default-region=asia-east1,google-compute-default-zone=asia-east1
-</pre
-### [使用 Google Storage](https://cloud.google.com/storage/docs/quickstart-gsutil?hl=zh-tw)
-##
+</pre>
+## [使用 Google Storage](https://cloud.google.com/storage/docs/quickstart-gsutil?hl=zh-tw)
 <pre>
 ##
 ### Create bucket
