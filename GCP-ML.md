@@ -28,7 +28,7 @@ gcloud compute project-info add-metadata --metadata google-compute-default-regio
 </pre>
 ## [使用 Google Storage](https://cloud.google.com/storage/docs/quickstart-gsutil?hl=zh-tw)
 <pre>
-
+# 注意: 資料集要放在 us-central1 的主機上(僅 Vision Auto ML)，不然要設定成跨區域
 Create bucket
 gsutil mb -b on -l us-central1 gs://jumbo-gcloud-bucket/
 gsutil ls gs://jumbo-gcloud-bucket/
