@@ -30,3 +30,22 @@ gsutil cp Desktop/kitten.png gs://jumbo-gcloud-bucket/
 ## https://rclone.org/drive/#making-your-own-client-id
 </pre>
 ### [Cloud Vision API](https://github.com/jumbokh/gcp_class/tree/master/VISION)
+### Create image dataset
+<pre>
+jumbokh@cloudshell:~ (nknu-ai-class)$ gsutil ls gs://jumbo_vision_bucket
+gs://jumbo_vision_bucket/ChuNewSong/
+jumbokh@cloudshell:~ (nknu-ai-class)$ gsutil ls gs://jumbo_vision_bucket/ChuNewSong
+gs://jumbo_vision_bucket/ChuNewSong/Chu/
+gs://jumbo_vision_bucket/ChuNewSong/New/
+gs://jumbo_vision_bucket/ChuNewSong/Song/
+jumbokh@cloudshell:~ (nknu-ai-class)$ gsutil ls gs://jumbo_vision_bucket/ChuNewSong/Chu > a1
+jumbokh@cloudshell:~ (nknu-ai-class)$ gsutil ls gs://jumbo_vision_bucket/ChuNewSong/New > a2
+jumbokh@cloudshell:~ (nknu-ai-class)$ gsutil ls gs://jumbo_vision_bucket/ChuNewSong/Song > a3
+jumbokh@cloudshell:~ (nknu-ai-class)$ cat a1 a2 a3 > files.list
+jumbokh@cloudshell:~ (nknu-ai-class)$ less files.list
+jumbokh@cloudshell:~ (nknu-ai-class)$ gsutil cp files.list gs://jumbo_vision_bucket/ChuNewSong
+Copying file://files.list [Content-Type=application/octet-stream]...
+/ [1 files][  8.9 KiB/  8.9 KiB]
+Operation completed over 1 objects/8.9 KiB.
+jumbokh@cloudshell:~ (nknu-ai-class)$
+</pre>
