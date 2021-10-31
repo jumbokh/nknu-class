@@ -5,6 +5,7 @@
 * [Quick start](https://cloud.google.com/storage/docs/quickstart-gsutil?hl=zh-tw)
 * [註冊帳號](https://cloud.google.com/)
 * [Cloud SDK](https://cloud.google.com/sdk/?&_ga=2.46617319.-1772323265.1635597182#download)
+* [Installing Cloud SDK](https://cloud.google.com/sdk/docs/install#deb)
 * [SDK 安裝說明](https://cloud.google.com/sdk/docs/install)
 * [建立專案: like: [nknu-ai-class]](https://console.cloud.google.com/projectcreate)
 * [搜尋: cloud vision api](https://console.cloud.google.com/marketplace/product/google/vision.googleapis.com?q=search&referrer=search&authuser=1&project=nknu-ai-class)
