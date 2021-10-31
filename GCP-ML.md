@@ -5,6 +5,7 @@
 ### [開始使用 Google Cloud](https://cloud.google.com/docs?authuser=1)
 ### [VISION python code](https://cloud.google.com/vision/automl/object-detection/docs/samples/automl-vision-object-detection-predict?authuser=1#automl_vision_object_detection_predict-python)
 ### [Getting Start with Keras on GCP](https://github.com/jumbokh/nknu-class/blob/main/notebooks/getting_started_keras.ipynb)
+    * [啟用API](https://console.cloud.google.com/marketplace/product/google/ml.googleapis.com?authuser=1&project=ailatform-keras-jumbo)
 * [Quick start](https://cloud.google.com/storage/docs/quickstart-gsutil?hl=zh-tw)
 * [註冊帳號](https://cloud.google.com/)
 * [Cloud SDK](https://cloud.google.com/sdk/?&_ga=2.46617319.-1772323265.1635597182#download)
