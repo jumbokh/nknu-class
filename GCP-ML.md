@@ -28,7 +28,7 @@ gcloud compute project-info add-metadata --metadata google-compute-default-regio
 <pre>
 
 Create bucket
-gsutil mb -b on -l asia-east1 gs://jumbo-gcloud-bucket/
+gsutil mb -b on -l us-central1 gs://jumbo-gcloud-bucket/
 gsutil ls gs://jumbo-gcloud-bucket/
 gsutil cp Desktop/kitten.png gs://jumbo-gcloud-bucket/
 ## setting for rpi
