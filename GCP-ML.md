@@ -23,7 +23,8 @@ gcloud compute project-info add-metadata --metadata google-compute-default-regio
 ### [使用 Google Storage](https://cloud.google.com/storage/docs/quickstart-gsutil?hl=zh-tw)
 ##
 <pre>
-# Create bucket
+##
+### Create bucket
 gsutil mb -b on -l asia-east1 gs://jumbo-gcloud-bucket/
 gsutil ls gs://jumbo-gcloud-bucket/
 gsutil cp Desktop/kitten.png gs://jumbo-gcloud-bucket/
