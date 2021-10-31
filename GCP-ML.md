@@ -56,3 +56,4 @@ Operation completed over 1 objects/8.9 KiB.
 jumbokh@cloudshell:~ (nknu-ai-class)$
 </pre>
 * ![create dataset](https://github.com/jumbokh/nknu-class/blob/main/docs/vision_dataset.JPG)
+* ![vision train](https://github.com/jumbokh/nknu-class/blob/main/docs/vision_train.JPG)
