@@ -9,6 +9,8 @@
 * [搜尋: cloud vision api](https://console.cloud.google.com/marketplace/product/google/vision.googleapis.com?q=search&referrer=search&authuser=1&project=nknu-ai-class)
 * gcloud init or gcloud auth login
 <pre>
+E:\GCP>gcloud auth login
+E:\GCP>gcloud config set project nknu-ai-class
 E:\GCP>gcloud compute regions list
 API [compute.googleapis.com] not enabled on project [41275790770]. Would you like to enable and retry (this will take a
 few minutes)? (y/N)?  y
@@ -22,8 +24,8 @@ gcloud compute project-info add-metadata --metadata google-compute-default-regio
 </pre>
 ## [使用 Google Storage](https://cloud.google.com/storage/docs/quickstart-gsutil?hl=zh-tw)
 <pre>
-##
-### Create bucket
+
+Create bucket
 gsutil mb -b on -l asia-east1 gs://jumbo-gcloud-bucket/
 gsutil ls gs://jumbo-gcloud-bucket/
 gsutil cp Desktop/kitten.png gs://jumbo-gcloud-bucket/
