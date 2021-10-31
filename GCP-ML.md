@@ -1,5 +1,6 @@
 ## 使用Google Cloud的機器學習服務
 ### [【懶人包】Google Cloud 基礎教學資源彙集](https://ikala.cloud/google-cloud-products-quick-start/)
+### [快速啟用 Cloud AutoML Vision](https://ikala.cloud/cloud-automl-vision-quick-start/)
 ### [使用GCP部署機器學習API](https://ithelp.ithome.com.tw/articles/10252383)
 ### [開始使用 Google Cloud](https://cloud.google.com/docs?authuser=1)
 * [Quick start](https://cloud.google.com/storage/docs/quickstart-gsutil?hl=zh-tw)
