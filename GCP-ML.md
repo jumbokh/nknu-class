@@ -3,6 +3,7 @@
 ### [快速啟用 Cloud AutoML Vision](https://ikala.cloud/cloud-automl-vision-quick-start/)
 ### [使用GCP部署機器學習API](https://ithelp.ithome.com.tw/articles/10252383)
 ### [開始使用 Google Cloud](https://cloud.google.com/docs?authuser=1)
+### [VISION python code](https://cloud.google.com/vision/automl/object-detection/docs/samples/automl-vision-object-detection-predict?authuser=1#automl_vision_object_detection_predict-python)
 * [Quick start](https://cloud.google.com/storage/docs/quickstart-gsutil?hl=zh-tw)
 * [註冊帳號](https://cloud.google.com/)
 * [Cloud SDK](https://cloud.google.com/sdk/?&_ga=2.46617319.-1772323265.1635597182#download)
