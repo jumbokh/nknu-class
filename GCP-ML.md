@@ -59,3 +59,6 @@ jumbokh@cloudshell:~ (nknu-ai-class)$
 </pre>
 * ![create dataset](https://github.com/jumbokh/nknu-class/blob/main/docs/vision_dataset.JPG)
 * ![vision train](https://github.com/jumbokh/nknu-class/blob/main/docs/vision_train.JPG)
+* ![Vision Auto ML Train Result](https://github.com/jumbokh/nknu-class/blob/main/docs/result.JPG)
+* ![Model predict](https://github.com/jumbokh/nknu-class/blob/main/docs/predict.JPG)
+* ![Model](https://github.com/jumbokh/nknu-class/blob/main/docs/model.JPG)
