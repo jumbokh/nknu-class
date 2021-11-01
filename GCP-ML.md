@@ -9,7 +9,7 @@
 * [啟用API: AI Platform Training & Prediction API](https://console.cloud.google.com/marketplace/product/google/ml.googleapis.com?authuser=1&project=ailatform-keras-jumbo)
 * [AI Platform Training & Prediction API](https://console.cloud.google.com/marketplace/product/google/ml.googleapis.com?authuser=1&project=ailatform-keras-jumbo)
 ### Example Program
-* [Colab: Cats vs Dog Small Data Set](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/5.2-using-convnets-with-small-datasets.ipynb)
+* [5.2 - Using convnets with small datasets](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/5.2-using-convnets-with-small-datasets.ipynb)
 * [Colab: gcp and Cats vs Dog Small Data Set](https://github.com/jumbokh/nknu-class/blob/main/notebooks/Cats_Dogs_GCP.ipynb)
 * [Colab: gcp Storage File OP](https://github.com/jumbokh/nknu-class/blob/main/notebooks/gcloud_fileop.ipynb)
 * [Getting started: Training and prediction with Keras in AI Platform](https://github.com/jumbokh/nknu-class/blob/main/notebooks/PetImages_keras.ipynb)
