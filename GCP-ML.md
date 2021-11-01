@@ -12,6 +12,7 @@
 * [Colab: Cats vs Dog Small Data Set](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/5.2-using-convnets-with-small-datasets.ipynb)
 * [Colab: gcp and Cats vs Dog Small Data Set](https://github.com/jumbokh/nknu-class/blob/main/notebooks/Cats_Dogs_GCP.ipynb)
 * [Colab: gcp Storage File OP](https://github.com/jumbokh/nknu-class/blob/main/notebooks/gcloud_fileop.ipynb)
+* [Getting started: Training and prediction with Keras in AI Platform](https://github.com/jumbokh/nknu-class/blob/main/notebooks/PetImages_keras.ipynb)
 ### 開始使用 Google Cloud Platform
 * [Quick start](https://cloud.google.com/storage/docs/quickstart-gsutil?hl=zh-tw)
 * [註冊帳號](https://cloud.google.com/)
