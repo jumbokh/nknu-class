@@ -48,6 +48,10 @@ gsutil cp Desktop/kitten.png gs://jumbo-gcloud-bucket/
 ## https://rclone.org/drive/#making-your-own-client-id
 </pre>
 ##
+<pre>
+gsutil ls -r gs://willchad_vcm/WillChad > file_list.cv
+# edit file_list.csv
+</pre>
 ### [Lab for Cloud Vision API](https://github.com/jumbokh/gcp_class/tree/master/VISION)
 ### Create image dataset
 <pre>
