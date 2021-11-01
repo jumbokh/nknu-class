@@ -46,7 +46,7 @@ gsutil cp Desktop/kitten.png gs://jumbo-gcloud-bucket/
 ## https://rclone.org/drive/#making-your-own-client-id
 </pre>
 ##
-### [Cloud Vision API](https://github.com/jumbokh/gcp_class/tree/master/VISION)
+### [Lab for Cloud Vision API](https://github.com/jumbokh/gcp_class/tree/master/VISION)
 ### Create image dataset
 <pre>
 jumbokh@cloudshell:~ (nknu-ai-class)$ gsutil ls gs://jumbo_vision_bucket
