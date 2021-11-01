@@ -8,6 +8,7 @@
 * [Getting Start with Keras on GCP](https://github.com/jumbokh/nknu-class/blob/main/notebooks/getting_started_keras.ipynb)
 * [啟用API: AI Platform Training & Prediction API](https://console.cloud.google.com/marketplace/product/google/ml.googleapis.com?authuser=1&project=ailatform-keras-jumbo)
 * [AI Platform Training & Prediction API](https://console.cloud.google.com/marketplace/product/google/ml.googleapis.com?authuser=1&project=ailatform-keras-jumbo)
+* [How to access files from Google Cloud Storage in Colab Notebooks](https://medium.com/analytics-vidhya/how-to-access-files-from-google-cloud-storage-in-colab-notebooks-8edaf9e6c020)
 ### Example Program
 * [5.2 - Using convnets with small datasets](https://github.com/jumbokh/nknu-class/blob/main/CNN/notebooks/5.2-using-convnets-with-small-datasets.ipynb)
 * [Colab: gcp and Cats vs Dog Small Data Set](https://github.com/jumbokh/nknu-class/blob/main/notebooks/Cats_Dogs_GCP.ipynb)
