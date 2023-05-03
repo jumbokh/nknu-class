@@ -13,7 +13,6 @@
 * [Ensemble](https://github.com/jumbokh/nknu-class/tree/main/ML/Ensemble)
 #### PPT
 * [人工智慧概論 ppt](https://github.com/jumbokh/nknu-class/blob/main/docs/README.md)
-* [Tensorflow 2.0 深度學習](https://docs.google.com/presentation/d/1GDXb2ajOigrlUDO-cGQtkvCo1Je8zhBc/edit?usp=sharing&ouid=105327400674977348197&rtpof=true&sd=true) ## 8/31
 * [迴歸分析](https://github.com/jumbokh/nknu-class/blob/main/docs/CH02%E8%BF%B4%E6%AD%B8%E5%88%86%E6%9E%90.ppt) [Regression](https://github.com/jumbokh/DataScience_1082/blob/master/regression.md)
 #### 政府公開資料取得
 * [DataScience -- Power BI](https://github.com/jumbokh/DataScience_1082) [Power BI Download](https://github.com/jumbokh/DataScience_1082/blob/master/inclass.md)
